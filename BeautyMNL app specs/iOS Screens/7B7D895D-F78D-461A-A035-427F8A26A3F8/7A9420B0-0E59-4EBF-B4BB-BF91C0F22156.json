@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "7A9420B0-0E59-4EBF-B4BB-BF91C0F22156",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "815BC958-B0F1-4E6C-A289-D82F67E38DDA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BD3740EE-4349-4F5B-BE7B-06E3752653A1",
+    "height": 31,
+    "width": 375,
+    "x": 0,
+    "y": 256
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ListItem/Description Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "50D0E79C-8A96-4998-9B0C-03EAB6F88225",
+      "overrideName": "AE827D31-1A05-402D-AAE3-23AD43CE9776_stringValue",
+      "value": "Products"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "01F7B42E-9299-4B7C-BBBB-ACCC09118392",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4158E336-0BD1-4C40-8F56-397832EA06C0",
+  "verticalSpacing": 0
+}

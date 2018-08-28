@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "8BED7FF5-0A4B-4FA1-994B-82A38BF43A64",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8647EF9D-2863-4F76-86E0-E03B341C7811",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CF14A2BF-17E8-4DF6-8CC0-41D0DDD73A84",
+    "height": 80,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Android/AppBar/default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1CF520D6-0F2E-4A16-9792-16232ADDACFE",
+      "overrideName": "B1C4F893-5FA3-4EBC-9AF7-6AF9AECA18FE_symbolID",
+      "value": "E27A39EB-9A43-4B0F-8E6B-23E173BC53E5"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "50165F69-4697-4286-92C9-F92FE36FFA4A",
+      "overrideName": "2D2435F4-54A1-4B7A-8393-9B2D8DD56185_stringValue",
+      "value": "Innisfree"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BA3B657A-596F-4968-8B0E-0E1FC76A7C04",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4DC8891D-A41E-409A-BB72-2C82C6FDDEF7",
+  "verticalSpacing": 0
+}

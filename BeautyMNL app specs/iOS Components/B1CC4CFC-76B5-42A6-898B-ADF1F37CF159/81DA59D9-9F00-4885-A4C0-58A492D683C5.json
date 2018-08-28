@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "81DA59D9-9F00-4885-A4C0-58A492D683C5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "413EF5CC-C4B6-4397-9560-8A3984400072",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DD17E2D9-C648-4872-8732-B688D595143F",
+    "height": 79,
+    "width": 345,
+    "x": 15,
+    "y": 535
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "FieldControl Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F89E771A-5CEF-47B8-BD9B-A73377F8F99E",
+      "overrideName": "A82F2271-4CAD-40A0-8901-5628AB5BB743_stringValue",
+      "value": "Quantity"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FEDBAB9D-347D-4F5C-875B-67B0D4078252",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F297B753-9758-4A4A-8A84-1CDCECBB85E0",
+  "verticalSpacing": 0
+}

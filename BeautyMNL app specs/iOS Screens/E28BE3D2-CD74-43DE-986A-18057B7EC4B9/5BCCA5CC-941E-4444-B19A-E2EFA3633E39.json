@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "5BCCA5CC-941E-4444-B19A-E2EFA3633E39",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AE122F02-95C2-4FA3-A9FB-C690B0B62FE8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EB82DC96-DED5-4A77-B3DD-F748215BBFDE",
+    "height": 31,
+    "width": 375,
+    "x": 0,
+    "y": 405
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ListItem/Description Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "861C5609-2E71-4794-BA80-39B556627872",
+      "overrideName": "AE827D31-1A05-402D-AAE3-23AD43CE9776_stringValue",
+      "value": "Shipping Info"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8D1FC45F-AF60-4AAA-9085-29A3FC2C3659",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4158E336-0BD1-4C40-8F56-397832EA06C0",
+  "verticalSpacing": 0
+}

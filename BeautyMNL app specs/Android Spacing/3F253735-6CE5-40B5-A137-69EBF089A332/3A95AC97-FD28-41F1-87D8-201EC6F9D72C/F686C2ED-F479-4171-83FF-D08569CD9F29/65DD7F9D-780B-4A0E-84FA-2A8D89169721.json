@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "65DD7F9D-780B-4A0E-84FA-2A8D89169721",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7A602D11-90BE-41BF-B179-2B01FC37D34F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A363DA11-A154-4597-81DC-D8CE4570AF74",
+    "height": 80,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Android/AppBar/default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8CAC6244-A6A9-424B-848E-1D55A7CE85E5",
+      "overrideName": "F1C53975-5511-4339-9D75-AFE4EEAD01F9_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6D4575E2-F881-4241-A0AD-808B59DF432B",
+      "overrideName": "44DADFB1-2FCC-438B-BD81-CF6250AFC35C_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "74AB3A48-98B4-4EBE-941B-25088F74C961",
+      "overrideName": "EF72781A-3AC9-412F-96CE-A1F7EEA62754_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CD449C4E-2E02-4EAE-B851-1F90C31EFBAE",
+      "overrideName": "20D9619B-3929-4F73-9A91-7241EDC0D18C_symbolID",
+      "value": "E27A39EB-9A43-4B0F-8E6B-23E173BC53E5"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8DE0D326-3F16-4F12-8B18-DA4A299EDCD5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BB80E040-4558-4E9C-901F-5A676E0100DE",
+  "verticalSpacing": 0
+}

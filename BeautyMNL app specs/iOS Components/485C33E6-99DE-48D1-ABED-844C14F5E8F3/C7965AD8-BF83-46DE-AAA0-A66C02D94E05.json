@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "C7965AD8-BF83-46DE-AAA0-A66C02D94E05",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "22A82237-AEB6-433F-A898-D7F7E6A6BF82",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "973373C4-F0FF-4BFE-9C09-06FEDA0DCE6D",
+    "height": 45,
+    "width": 375,
+    "x": 0,
+    "y": 20
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Navigation/Default",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "85B3C7C7-8B96-4910-ACE5-70A4C2983202",
+      "overrideName": "05FF1885-CFEA-4913-815D-8B34DBB4770A_symbolID",
+      "value": "D5DE5083-81F2-4B1B-AD15-3C2FB8FA85EE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "50EF33FD-20B7-41B1-A47C-1F3054E81806",
+      "overrideName": "860BEF38-0CBE-4DFD-AE4B-84851C59F389_stringValue",
+      "value": "Filter by"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "182E62D2-5E4A-4AFD-A24A-AF0E1AA3F5FD",
+      "overrideName": "1F8EADD5-9B76-46D4-AD5B-F7448D0F50F8_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "466201F3-5620-4184-A6A7-57943853D382",
+      "overrideName": "6BC12116-E5DF-4424-8387-41E7FF866C02_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "89E91665-39A8-449A-BA42-1BCC16CDCB1E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "730BBE04-FA49-4BAE-8995-96CA66623890",
+  "verticalSpacing": 0
+}

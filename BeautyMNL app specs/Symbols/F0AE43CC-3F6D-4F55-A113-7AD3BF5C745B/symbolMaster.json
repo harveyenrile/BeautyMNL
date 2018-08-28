@@ -1,0 +1,81 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "661A6C43-060A-4765-BFCD-8F7A23A70B5F",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 22,
+  "do_objectID": "F0AE43CC-3F6D-4F55-A113-7AD3BF5C745B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B3AA23E1-4B0C-42E9-9E86-F32F302A895A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "969BF96D-6EB0-4719-8B67-731BC1EC07B8",
+    "height": 64,
+    "width": 262,
+    "x": 4899,
+    "y": 89
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0DDDB37F-B8C0-4609-9EAA-0BAA384BB8D3",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "ECC3D6CD-9EC6-4AB9-9DE9-69851228CB84"
+    }
+  ],
+  "name": "Android/UI/Dropdown/Actions - disabled",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "47FD1D1E-B926-44CF-B80B-4FD3B490A964",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C0B52CB7-49DB-4EF9-BA86-699B61BC4F38",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8B3E1D45-494E-4827-84D2-AD6BFFFEEA0D",
+    "guides": [
+    ]
+  }
+}

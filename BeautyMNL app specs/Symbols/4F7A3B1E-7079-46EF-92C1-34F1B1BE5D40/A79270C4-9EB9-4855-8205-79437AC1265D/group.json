@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "A79270C4-9EB9-4855-8205-79437AC1265D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "71D28769-7985-4455-9E94-B3943AB9AC37",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "365B5D2D-688C-4223-BA31-59D9C4D87155",
+    "height": 80,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D204E8C6-5F95-4F0B-8111-EBB3A7681B1A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D37ECC9A-9C6A-426C-985B-61734403B668"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F2FD7038-DA4C-4DFA-9AE4-BFF80252B84A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D825B7C5-6CAC-4B7B-9DFA-BCEB5D0F7BAC"
+    },
+    {
+      "class": "text",
+      "id": "E7B31665-CB0F-42A6-8EE1-37BB6434E6AF"
+    }
+  ],
+  "name": "AppBar/default",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "720D52AB-6CDD-4940-A8BB-D0A0C4F3B048",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

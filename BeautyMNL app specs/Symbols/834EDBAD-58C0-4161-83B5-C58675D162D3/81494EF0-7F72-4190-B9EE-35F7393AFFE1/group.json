@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "81494EF0-7F72-4190-B9EE-35F7393AFFE1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "194FB23D-E002-41D4-8431-43AFC01B029D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FF76FB30-4C1F-472A-8AF7-65380F03CEA7",
+    "height": 48,
+    "width": 344,
+    "x": 8,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B951DC05-266B-4F78-8987-5DA3067B570F"
+    },
+    {
+      "class": "text",
+      "id": "1C57CCE8-1F39-4ABB-9BFF-07E26D0303B2"
+    }
+  ],
+  "name": "Snackbar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1E25B566-4E92-4788-8C17-A0212CAAC5CF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

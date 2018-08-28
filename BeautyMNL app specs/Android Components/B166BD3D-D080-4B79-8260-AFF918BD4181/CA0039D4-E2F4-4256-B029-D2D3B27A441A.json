@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "CA0039D4-E2F4-4256-B029-D2D3B27A441A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F338BCBF-1C3B-426D-A213-18BBAC7BD556",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "09D7ED76-BA17-4BB6-94AD-B6B9EDBDAE3B",
+    "height": 65,
+    "width": 360,
+    "x": 0,
+    "y": 145
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Android/Bar/Sheet Item Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "212FBF6B-61C8-42F4-B12B-314DF7D2B894",
+      "overrideName": "93DDA8E2-66A2-46E9-9344-BF3F05D2EE2F_stringValue",
+      "value": "Acne Pimple Master Patch"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DA165B43-5F8E-40BE-B72F-271541902786",
+      "overrideName": "456EF88F-F979-4789-919E-D67A09EE051B/6D27E294-D3A6-4BEE-A9D5-AB5FB9C29BB8_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/50ea60b8ae234967ace205d6f3fe81d616164b6f.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "61FF4624-557E-49DC-AC63-1C1BF813306B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5B8F5E43-F283-4961-B7C4-1D81D5EBAC45",
+  "verticalSpacing": 0
+}

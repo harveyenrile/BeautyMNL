@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "87031DCD-BC96-4AA4-9292-2C45BC84BE86",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B1498DEC-4DB2-4337-A3BC-66CA0DE1ED4C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "919C611E-669B-420C-BFE6-516A2555585A",
+    "height": 295,
+    "width": 165,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tile/Product",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5A830E44-DE3D-4A6E-9C76-9876CF22F141",
+      "overrideName": "533ABFC1-4821-47A5-81F0-489A5F176333_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ac2469c4ad8b0329f550e2b3d6a803400e3ae2df.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "62A7FFCC-69CD-417B-9773-9CFB3AB513FF",
+      "overrideName": "655D5792-C80E-4561-9DCA-384F491E91A8_stringValue",
+      "value": "Kris Matte Matic Lip..."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "521C753D-C15C-4B05-BF5C-4D66D060438E",
+      "overrideName": "187C5368-3B4A-47BA-9F74-63E1490A08F9_stringValue",
+      "value": "Kris"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8D066E38-ADCC-481C-BFF3-E1A7B72BBA97",
+      "overrideName": "90930D41-C45A-4349-B28B-058D1B4EE13C_stringValue",
+      "value": "P245.00"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "96112DD8-20F0-40AE-A3C0-385DE5372E1E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EC4384AC-2F27-4FFE-B72B-5B7E764F1CDA",
+  "verticalSpacing": 0
+}

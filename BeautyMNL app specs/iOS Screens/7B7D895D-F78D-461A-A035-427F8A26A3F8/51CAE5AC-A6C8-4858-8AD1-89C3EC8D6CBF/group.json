@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "51CAE5AC-A6C8-4858-8AD1-89C3EC8D6CBF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "19DD062C-F24D-4A66-A2D8-BBED38274429",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E021C58D-2282-43CD-8CD0-7A85824C6DB3",
+    "height": 49,
+    "width": 375,
+    "x": 0,
+    "y": 149
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "BB61BDAC-EB0F-40FE-BE31-C132CF54265E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EBF7989C-9AD2-43F0-8D0C-52E226DD0845"
+    }
+  ],
+  "name": "ListItem/Checkbox Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8799E712-B3FA-4B04-BCDC-EEE0FA4C1A71",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

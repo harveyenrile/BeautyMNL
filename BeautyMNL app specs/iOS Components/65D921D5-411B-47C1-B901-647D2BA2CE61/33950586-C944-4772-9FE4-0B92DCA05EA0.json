@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "33950586-C944-4772-9FE4-0B92DCA05EA0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "86BBBEC2-6D4C-401A-867A-06BC28FD9C96",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "27ED008F-17BB-455E-BD11-B2E236DD0E15",
+    "height": 62,
+    "width": 375,
+    "x": 0,
+    "y": 210
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ListItem/Checkbox/Left Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E4F75E37-6625-43F5-A75E-14FBB659F2BF",
+      "overrideName": "14F62545-E19C-456D-BF20-F06636074242_stringValue",
+      "value": "Net Cube"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1723AECF-C799-43B2-85D6-BD76011CD335",
+      "overrideName": "EB1A8757-1CD2-4141-BC86-1F88C818AD8C_stringValue",
+      "value": "31st Street, Lane O, Bonifacio Global City"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9F63A2D8-A023-47E5-BD2C-9FCEB50722CC",
+      "overrideName": "A313E7DD-6DD3-46DE-B5F6-A5B7F60D419B_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F28CEBD1-F83E-488B-86D7-425FD7F5DEB8",
+      "overrideName": "ACC99309-3AC5-45A3-8BAD-7C9D0938D616_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "73EB797E-AD74-4B26-8E92-DCB186289EFB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EC44928B-91CB-4B41-B136-CD4092F8C8F0",
+  "verticalSpacing": 0
+}

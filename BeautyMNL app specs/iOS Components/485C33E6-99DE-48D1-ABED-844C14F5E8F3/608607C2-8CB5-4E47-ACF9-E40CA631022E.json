@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "608607C2-8CB5-4E47-ACF9-E40CA631022E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D8A769C5-DA01-4090-A7E6-A6D83FC20152",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F81A8F64-6401-4786-A372-1D519F71A7A6",
+    "height": 49,
+    "width": 375,
+    "x": 0,
+    "y": 195
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ListItem Expand",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E4F0F645-55EA-49B5-8E0B-AA6EB7A58A5E",
+      "overrideName": "F4A4B4B5-9FB3-4E8F-AB8F-0F588991F830_stringValue",
+      "value": "Make up"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "72B5F4F1-75A4-4391-A6A0-DD785623767D",
+      "overrideName": "9BB22330-AAEB-45C9-AD64-0A4BF0203C6E_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C20F476A-78D6-4AB9-B681-8B6CEEA76DC0",
+      "overrideName": "14F37174-3703-4774-9045-8532E4327CD9/67C4450C-B54E-49FE-9A4E-95E3E22CF060_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "678A3BE2-FC82-42CA-9EB7-D20733E0754E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3D3A2F0C-E742-4ACF-BEE5-A2ABDB3124DF",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,98 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "14B5FF3B-E312-4513-A8C8-AD7F94B9CC76",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C937AED0-E061-4425-BF20-B51F4447C9E5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0D63E65A-E647-4D03-9B55-DECF1502946B",
+    "height": 261,
+    "width": 375,
+    "x": 0,
+    "y": 406
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Views/Picker",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "241DC856-4BA4-40A9-9F6D-64F2789166C5",
+      "overrideName": "5B2F7336-76F8-42B3-93E1-F91B83328F54_stringValue",
+      "value": "Done"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4F98FEBD-B482-439B-A7BD-CBC6317F6A37",
+      "overrideName": "B41E96B3-0D73-4B7D-85C8-79E94C576561_stringValue",
+      "value": "Snack"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "63D7B92C-3872-4AB7-814B-0802E0B6A0DA",
+      "overrideName": "08B5A0C5-B7A3-4252-A4FC-03C1AB25F36D_stringValue",
+      "value": "Ortigas"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "58B49783-75FF-4976-B314-69B84591E983",
+      "overrideName": "1043AD9D-BD14-4E59-A957-1146E3F0CE05_stringValue",
+      "value": "Quezon City"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8EFD8484-102E-4537-B817-5BCEBC5F35A8",
+      "overrideName": "A071A9AC-A129-4718-B99F-6082AEA338AB_stringValue",
+      "value": "San Juan"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4AB0773A-0C25-4A26-B3A5-7A351F34B00F",
+      "overrideName": "7892A9B0-D6EB-45D7-8F34-6DF305068A1B_stringValue",
+      "value": "Pasig"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E11D1743-1CFE-4DF0-AD82-44CAD6C39216",
+      "overrideName": "13E30179-92C7-422B-9868-F69949F32110_stringValue",
+      "value": "Taguig"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "763A0BAE-585B-4553-9608-71B4CCB5121E",
+      "overrideName": "36DF1759-4CFC-4148-9B50-26EB8828F06A_stringValue",
+      "value": "Makati"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "44B93331-9787-4E7E-9319-24A70AA1700D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5C051CF3-7EBF-4302-B1DE-9D16C8D156ED",
+  "verticalSpacing": 0
+}

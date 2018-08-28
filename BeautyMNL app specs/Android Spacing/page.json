@@ -1,0 +1,78 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "do_objectID": "B8AA1280-3518-4072-AAEF-671247ADE4F7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -542,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "3F253735-6CE5-40B5-A137-69EBF089A332"
+    },
+    {
+      "class": "artboard",
+      "id": "4087DF30-5BED-4B61-A155-4F94D6FD8039"
+    },
+    {
+      "class": "artboard",
+      "id": "F165CC0A-1DCC-4A47-B04D-5A4AF468B830"
+    },
+    {
+      "class": "artboard",
+      "id": "A0562A5C-23A5-4092-85BF-6D3CB9EE667C"
+    }
+  ],
+  "name": "Android Spacing",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "DLMidnight": {
+      "layerColor": "green"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -415,
+    "guides": [
+    ]
+  }
+}

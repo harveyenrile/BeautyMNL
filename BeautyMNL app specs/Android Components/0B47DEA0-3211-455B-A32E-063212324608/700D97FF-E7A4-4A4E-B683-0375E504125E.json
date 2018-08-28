@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "700D97FF-E7A4-4A4E-B683-0375E504125E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "79BE1934-21FB-492B-999A-91BAAFEB72B2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F6C6DA3B-1967-4862-94EE-821669B5643C",
+    "height": 79,
+    "width": 328,
+    "x": 16,
+    "y": 508
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "FieldControl Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "39071A30-C3A6-40E2-A143-8D52E1B1153A",
+      "overrideName": "99DF49DB-5254-443A-AA88-79FC6DBB2BD1_stringValue",
+      "value": "Color"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6349948C-D3FD-4E92-B92C-4D797A6D3C62",
+      "overrideName": "538F28EC-C063-4B90-B101-ACA028D83179_stringValue",
+      "value": "Christmas Red (Out of Stock)"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3D34D6C8-E32E-4A73-9B65-377379C92703",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "89358A65-28A8-4306-B270-719F298528CC",
+  "verticalSpacing": 0
+}

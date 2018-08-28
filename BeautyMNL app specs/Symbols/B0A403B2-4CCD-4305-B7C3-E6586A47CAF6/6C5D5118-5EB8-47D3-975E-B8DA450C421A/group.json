@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "6C5D5118-5EB8-47D3-975E-B8DA450C421A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A356A47F-92C8-44F1-8E8E-0695FC9196D0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F6268105-7155-4359-A036-A2F5480681C0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9E461606-BF10-4028-B7ED-5584592F1793"
+    },
+    {
+      "class": "text",
+      "id": "B6BFDC1B-EC79-4D5F-85E4-591F00CC10AC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CD35C983-9666-43E6-BCE8-901C309AACEC"
+    }
+  ],
+  "name": "AppBar/default",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "8AB095B6-1442-45D1-A3EB-1FC6F32A76C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AB02C552-5336-4A23-922A-A5EB52D8FBBE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FAC992CE-1C78-4330-BD0C-ACACF6985449",
+    "height": 52,
+    "width": 280,
+    "x": 0,
+    "y": 140
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "63C3029B-579B-4954-A46C-02E46B711460"
+    },
+    {
+      "class": "group",
+      "id": "89897789-9418-4A3B-AE0B-09526D9512A2"
+    },
+    {
+      "class": "group",
+      "id": "5A6F482A-B6AC-438C-A6BC-79D9E573017C"
+    }
+  ],
+  "name": "dialog-actions",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0DD092F8-E07A-4749-A1E9-22FF40787DA2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

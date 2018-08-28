@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "941920A1-FE91-4393-BE15-BC382C33E56B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A10500FE-FAF9-46AB-ABC0-57F1E0B92E31",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F9B6E4DA-83E4-4B54-8018-0CD613C20D08",
+    "height": 107,
+    "width": 76,
+    "x": 125,
+    "y": 567
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Views/Taxon",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1052A471-6307-4275-9031-BF0778AE48FE",
+      "overrideName": "E237ED14-3949-4775-A874-65956294C816_stringValue",
+      "value": "Skincare"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "42493B58-5490-4E97-B7E6-11A73C9462DD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E0F39828-E86C-4E58-BEC4-8DB9525BF218",
+  "verticalSpacing": 0
+}

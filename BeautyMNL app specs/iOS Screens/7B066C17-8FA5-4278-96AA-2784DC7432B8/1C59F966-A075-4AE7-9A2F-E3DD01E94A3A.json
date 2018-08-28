@@ -1,0 +1,84 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "1C59F966-A075-4AE7-9A2F-E3DD01E94A3A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D35FAA3A-787D-4AD3-9D93-479FAFBCEA35",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8C020031-BF5B-4FBD-97C2-FAC5F2397F96",
+    "height": 95,
+    "width": 375,
+    "x": 0,
+    "y": 436
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Views/MediaItem/Product Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D4566339-4213-49D9-8E89-CD201BBC3ADB",
+      "overrideName": "847704CE-78B0-4325-839E-4FEA6A9F3721_stringValue",
+      "value": "Acne Pimple Master Patch"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A8A2D8BD-A5D0-467D-BC4A-2CB5599C42E7",
+      "overrideName": "86E1D7A3-889C-4454-9416-88434BB16FA1_stringValue",
+      "value": "Cosrx"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C1362A71-98EA-460C-88C6-FDB0EEAF7871",
+      "overrideName": "99210B55-0099-4AF8-A13E-62351AF1DB1F_stringValue",
+      "value": "FREE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9CE6C840-4F08-422D-B4C6-5A8D7666A356",
+      "overrideName": "52CD9153-D5B7-4C6A-A7C5-316B0DC923F5_stringValue",
+      "value": "FREE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "10B17C86-9CDE-464C-A681-3F2506CE896D",
+      "overrideName": "DB7B4E82-6D13-481A-8290-E81DC24051F2_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/4b1c850baa64b7a4e1113533b076eac58091b14b.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9102F084-3F86-4094-BFFC-578D0A853C98",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EDFA3E52-5BDB-4B7B-8C6B-448D080DE573",
+  "verticalSpacing": 0
+}

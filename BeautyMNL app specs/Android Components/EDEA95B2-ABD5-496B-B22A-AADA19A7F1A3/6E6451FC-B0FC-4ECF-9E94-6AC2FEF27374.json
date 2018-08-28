@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "6E6451FC-B0FC-4ECF-9E94-6AC2FEF27374",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9E082195-E6FF-4A64-B24E-E77715E8FE79",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1FFF69D9-DDFC-4E24-AC42-E3327A2F7100",
+    "height": 56,
+    "width": 360,
+    "x": 0,
+    "y": 192
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Android/Bar/Sheet Item Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B5202449-CAAC-4922-9D6B-405FFF5B2441",
+      "overrideName": "FFE556D6-4F74-4260-8E10-E9118FC747B8_stringValue",
+      "value": "Makeup"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6874186A-7CFA-49CE-A2FA-AC5CE57098B4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8B422ED6-0C02-49F6-9C99-6B218F99AD6E",
+  "verticalSpacing": 0
+}
