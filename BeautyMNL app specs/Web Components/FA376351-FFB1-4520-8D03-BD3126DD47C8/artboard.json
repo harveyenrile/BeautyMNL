@@ -1,5 +1,5 @@
 {
-  "_class": "symbolMaster",
+  "_class": "artboard",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,8 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 6,
-  "do_objectID": "AEE440CD-F0F4-4B23-BCEE-5665E5096C3E",
+  "do_objectID": "FA376351-FFB1-4520-8D03-BD3126DD47C8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 25,
-    "width": 24,
-    "x": 8268,
-    "y": -379
+    "height": 1024,
+    "width": 1024,
+    "x": -357,
+    "y": -512
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -36,7 +35,6 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -44,16 +42,38 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "C5411A21-534C-40E6-8173-668F5F185D14"
+      "class": "symbolInstance",
+      "id": "1BCA0BB4-5C95-48A6-9739-031DBB4EA48B"
     }
   ],
-  "name": "icon/Search",
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 32,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Desktop",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -65,7 +85,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "5120CF61-32E3-4615-934E-5C2DEBC1396E",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "C438338E-6BC6-42AD-970D-824D14CCEC61",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "412543DC-4E76-4E59-AB1A-74370CCFCA92",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5D5AF158-358D-4A06-B965-BD12435D4C89",
+    "height": 43,
+    "width": 43,
+    "x": 3,
+    "y": 6
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Elements/icon/heart",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7AAC2B3A-1B1C-43A9-AA6F-E0D8B8A55A68",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D61C9049-4FA6-4523-9242-23F558A96CBB",
+  "verticalSpacing": 0
+}

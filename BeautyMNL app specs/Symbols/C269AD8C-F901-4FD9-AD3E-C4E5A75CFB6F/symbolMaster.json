@@ -8,8 +8,8 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 6,
-  "do_objectID": "AEE440CD-F0F4-4B23-BCEE-5665E5096C3E",
+  "changeIdentifier": 7,
+  "do_objectID": "C269AD8C-F901-4FD9-AD3E-C4E5A75CFB6F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,13 +22,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 25,
-    "width": 24,
-    "x": 8268,
-    "y": -379
+    "height": 38,
+    "width": 297,
+    "x": 9848,
+    "y": -720
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,11 +48,11 @@
   "layers": [
     {
       "class": "group",
-      "id": "C5411A21-534C-40E6-8173-668F5F185D14"
+      "id": "9DB4EE80-A161-4274-A61F-7617871B5CF7"
     }
   ],
-  "name": "icon/Search",
-  "nameIsFixed": true,
+  "name": "Web/Component/Searchbar",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -65,7 +65,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "5120CF61-32E3-4615-934E-5C2DEBC1396E",
+  "symbolID": "BCB023F3-6B03-4A26-99F7-795E11E84592",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

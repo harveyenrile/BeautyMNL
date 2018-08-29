@@ -8,8 +8,8 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 6,
-  "do_objectID": "AEE440CD-F0F4-4B23-BCEE-5665E5096C3E",
+  "changeIdentifier": 7,
+  "do_objectID": "FB3D9238-4837-4318-903F-F0F23A30D8AF",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,13 +22,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 25,
-    "width": 24,
-    "x": 8268,
-    "y": -379
+    "height": 55,
+    "width": 1024,
+    "x": 10245,
+    "y": -720
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,11 +48,11 @@
   "layers": [
     {
       "class": "group",
-      "id": "C5411A21-534C-40E6-8173-668F5F185D14"
+      "id": "44E6B420-520A-426C-BBD1-6B8E89A04794"
     }
   ],
-  "name": "icon/Search",
-  "nameIsFixed": true,
+  "name": "Web/Component/Header",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -65,7 +65,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "5120CF61-32E3-4615-934E-5C2DEBC1396E",
+  "symbolID": "0709EBD4-2489-4922-9636-DC39A3E592D3",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
