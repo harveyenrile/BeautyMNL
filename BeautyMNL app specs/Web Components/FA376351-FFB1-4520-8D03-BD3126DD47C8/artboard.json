@@ -71,6 +71,34 @@
     {
       "class": "text",
       "id": "0A8BFF86-C061-424E-8BA7-7614D8114E5C"
+    },
+    {
+      "class": "text",
+      "id": "D8BA0F23-D89D-40CA-9A39-624BECE3C432"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AE9604B6-0C12-44B7-9B80-CBF880D23BBF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1BE7AAFB-9D55-442C-84A3-E397FB6BBD2B"
+    },
+    {
+      "class": "text",
+      "id": "96CAEE4D-02E6-4227-944C-BC60F717281E"
+    },
+    {
+      "class": "text",
+      "id": "4616C59F-68F5-4470-A285-6A899F825F30"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A160C8EE-3276-47A8-BE92-952903BE36A5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9B056D36-D808-41BE-A5C1-CB164CC0AF88"
     }
   ],
   "layout": {

@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5254901960784314,
-            "green": 0.4941176470588236,
-            "red": 0.4666666666666667
+            "blue": 0.2274509804,
+            "green": 0.1019607843,
+            "red": 0.09019607843
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFUIText-Regular",
-              "size": 20
+              "name": "GothamMedium",
+              "size": 14
             }
           },
           "kerning": 0,
@@ -28,18 +28,19 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 4,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "Form"
+    "string": "Label"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "0A8BFF86-C061-424E-8BA7-7614D8114E5C",
+  "do_objectID": "DAC04078-FBFD-4A96-8815-660682D9E374",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "59ABB4E6-9A2D-4F6D-A784-DC4BAA32063B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,12 +51,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 49,
-    "x": 46,
-    "y": 114
+    "do_objectID": "39A6CAB5-AE1C-44BE-A74D-32C722A5E751",
+    "height": 12,
+    "width": 39,
+    "x": 83,
+    "y": 33
   },
-  "glyphBounds": "{{1, 4}, {46, 16}}",
+  "glyphBounds": "{{1, -1}, {37, 12}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -63,32 +65,34 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Form",
+  "name": "Label",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 43,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "6773C59D-E288-4E89-982F-7A6CFACF137F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "21AAD97E-FEDD-4057-A61C-8C93B8AA55AB",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5254901960784314,
-          "green": 0.4941176470588236,
-          "red": 0.4666666666666667
+          "blue": 0.2274509804,
+          "green": 0.1019607843,
+          "red": 0.09019607843
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SFUIText-Regular",
-            "size": 20
+            "name": "GothamMedium",
+            "size": 14
           }
         },
         "kerning": 0,

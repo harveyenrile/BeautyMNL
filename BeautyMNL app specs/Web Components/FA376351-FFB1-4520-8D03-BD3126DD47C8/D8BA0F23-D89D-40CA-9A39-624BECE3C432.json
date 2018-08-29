@@ -28,18 +28,19 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 4,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "Form"
+    "string": "Taxon Pill"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "0A8BFF86-C061-424E-8BA7-7614D8114E5C",
+  "do_objectID": "D8BA0F23-D89D-40CA-9A39-624BECE3C432",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "93162D46-A56A-4892-8FFF-500F3C87460C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,12 +51,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "64396C16-076F-4AF9-B306-9B7178F57807",
     "height": 24,
-    "width": 49,
+    "width": 92,
     "x": 46,
-    "y": 114
+    "y": 478
   },
-  "glyphBounds": "{{1, 4}, {46, 16}}",
+  "glyphBounds": "{{0, 3}, {90, 17}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -63,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Form",
+  "name": "Taxon Pill",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -71,11 +73,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "8AA1084B-7B5E-4A9A-89E7-9E20F4186659",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "B1FAA66B-312C-4807-AB75-FAD6CB0B917C",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

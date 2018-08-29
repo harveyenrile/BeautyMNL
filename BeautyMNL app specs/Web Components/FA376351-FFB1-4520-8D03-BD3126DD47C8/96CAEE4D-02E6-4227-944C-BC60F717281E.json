@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5254901960784314,
-            "green": 0.4941176470588236,
-            "red": 0.4666666666666667
+            "blue": 0.886238694190979,
+            "green": 0.5645518898963928,
+            "red": 0.288655698299408
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "SFUIText-Regular",
-              "size": 20
+              "size": 14
             }
           },
           "kerning": 0,
@@ -28,15 +28,15 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 4,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "Form"
+    "string": "Default"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "0A8BFF86-C061-424E-8BA7-7614D8114E5C",
+  "do_objectID": "96CAEE4D-02E6-4227-944C-BC60F717281E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 49,
-    "x": 46,
-    "y": 114
+    "height": 16,
+    "width": 48,
+    "x": 63,
+    "y": 595
   },
-  "glyphBounds": "{{1, 4}, {46, 16}}",
+  "glyphBounds": "{{1, 2}, {47, 12}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Form",
+  "name": "Default",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -80,15 +80,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5254901960784314,
-          "green": 0.4941176470588236,
-          "red": 0.4666666666666667
+          "blue": 0.886238694190979,
+          "green": 0.5645518898963928,
+          "red": 0.288655698299408
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "SFUIText-Regular",
-            "size": 20
+            "size": 14
           }
         },
         "kerning": 0,

@@ -7,9 +7,9 @@
     "green": 1,
     "red": 1
   },
-  "booleanOperation": 0,
-  "changeIdentifier": 5,
-  "do_objectID": "41CD0CCE-80CB-4E84-AA34-21455CC28D24",
+  "booleanOperation": -1,
+  "changeIdentifier": 129,
+  "do_objectID": "3D3344AB-43AF-44D1-8CC0-37FC69D88FE4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,13 +22,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 6,
-    "width": 11,
-    "x": 5761,
-    "y": -176
+    "height": 79,
+    "width": 262,
+    "x": 10334,
+    "y": -322
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -36,7 +36,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
+  "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -48,12 +48,12 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "7CC58662-36F3-4C5F-BFAD-0B018F990EC5"
+      "id": "A9BD7707-4A0D-41EE-A3B8-BC5F3B6DCBC8"
     }
   ],
-  "name": "Assets/Angle-down",
-  "nameIsFixed": true,
-  "resizesContent": false,
+  "name": "Web/UI/TaxonPillState/hover",
+  "nameIsFixed": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -65,7 +65,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "0E0234FC-D535-438D-AA83-606801004692",
+  "symbolID": "AE616B7C-7DF8-47A0-8FF1-FE16CB19B3FF",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
