@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "29712F60-1B37-4ADA-B770-99DDCD49A0F9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "40072AA3-A4D5-4D79-BAB9-4AC7351D25A6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "15B4C6A0-3C58-45F7-AD2E-87E3B8D65024",
+    "height": 64,
+    "width": 360,
+    "x": 0,
+    "y": 459
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Snackbar Copy 3",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F8EA1B2F-225F-48DD-AF00-3663F3B4EA94",
+      "overrideName": "A630EAD1-C66B-4A9F-B7DC-73FD3B9D80A5_stringValue",
+      "value": "This is a success message"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "18471CFE-7EB9-4681-8440-6214D417203E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "17D2BD91-1FC6-4B52-A0F7-D4FDC2359E1F",
+  "verticalSpacing": 0
+}

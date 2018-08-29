@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "4DC49BBC-BD46-42C1-8276-5DC25093D4B5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FEC5B95C-2AE3-48F5-ABDB-A3BB343591D1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "808E0C85-72E4-4B8B-9DCE-C8FD7526345D",
+    "height": 79,
+    "width": 345,
+    "x": 15,
+    "y": 456
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "FieldControl Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F89E771A-5CEF-47B8-BD9B-A73377F8F99E",
+      "overrideName": "05A293A5-1B43-49DB-99F7-AD0EED64C173_stringValue",
+      "value": "Type of Shipping Address"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5C3352B8-0AF6-43FC-8E88-1ADD1693FECE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "398BF32C-C81C-4840-9537-36E0A4F7572C",
+  "verticalSpacing": 0
+}

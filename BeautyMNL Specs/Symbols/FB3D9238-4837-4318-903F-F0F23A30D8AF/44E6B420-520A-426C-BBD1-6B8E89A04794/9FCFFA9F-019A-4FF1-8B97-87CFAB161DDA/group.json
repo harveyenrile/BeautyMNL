@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "9FCFFA9F-019A-4FF1-8B97-87CFAB161DDA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4517387D-BE76-4577-8D42-52B45BDA4040",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "75223F0E-E0A2-4CC5-BA9D-4847FF793B75",
+    "height": 55,
+    "width": 89,
+    "x": 757,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DC0C2DA3-5292-46DF-B21D-81AB7500854C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B1D82FD4-C973-443C-B392-983AE13A04DE"
+    },
+    {
+      "class": "group",
+      "id": "D613DF60-21C3-419F-8E58-196C913FF02D"
+    }
+  ],
+  "name": "Cart",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "60F3CCE1-22D4-4FFF-92D3-DCD71A8A3F7A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

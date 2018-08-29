@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "5B54A810-06B0-484F-9E16-5C2B00639E4E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D6DC5E46-8A47-4EA0-8AB1-AD92FB398C4B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1D73DB79-6AAC-44A1-B2B7-232303165950",
+    "height": 45,
+    "width": 375,
+    "x": 90,
+    "y": 265
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Navigation/Dropdown",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5C78DD1B-5A42-4334-8769-8B3101DC2DC9",
+      "overrideName": "A43E508A-11DE-477B-98B0-84B64923477F_stringValue",
+      "value": "Treatments"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FDBF5AC8-7181-4C91-9E83-589CBF4C9D28",
+      "overrideName": "4BAB5788-6035-4EA1-9E51-6D6DC1B6D3CF_stringValue",
+      "value": "Skin Care"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8E2537D9-C9EB-494F-AB33-12DD408AADED",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D91CE74A-8E6B-4A3D-B59C-06ADBA8EBDB7",
+  "verticalSpacing": 0
+}

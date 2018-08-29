@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "50FACE82-652D-4D1E-949E-05B098E6D8E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C939A38A-D0FA-4559-9BB4-C7C8892ED7BB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DC8BA3DD-E8C5-4283-95FC-DC04C5A593C8",
+    "height": 79,
+    "width": 345,
+    "x": 15,
+    "y": 134
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "FieldControl Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2FDDB1D6-AFF2-409C-A90B-E41AB68F24B0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3208F241-BA60-4295-B1D9-F37C982ADEF2",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "F1E9DEFC-D126-4B06-AB3D-DDB3FD2042C7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 192,
+    "width": 280,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FE13F200-B5DE-4C61-B387-6BC0D368D9A7"
+    },
+    {
+      "class": "group",
+      "id": "8AB095B6-1442-45D1-A3EB-1FC6F32A76C3"
+    },
+    {
+      "class": "text",
+      "id": "DEDFB0BE-ADE9-41BB-8A14-034E4A0CD4EF"
+    },
+    {
+      "class": "text",
+      "id": "FA361591-F19F-4548-9259-3C65C79FF66F"
+    }
+  ],
+  "name": "Android/UI/Dialog",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "86FEC2E6-FD35-4CB2-9F24-2C04DF2022B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "71B6A18B-6A74-4565-A873-FB4AF8F1F827",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "17914E24-1155-4EC0-B839-0BFE2086855A",
+    "height": 95,
+    "width": 375,
+    "x": 0,
+    "y": 261
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Views/MediaItem/Product/Sale Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B2A9CB70-C159-499C-835B-1185011A40C9",
+      "overrideName": "86E1D7A3-889C-4454-9416-88434BB16FA1_stringValue",
+      "value": "Lucas Papaw"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3FBC3D11-8DDE-46FE-8326-BFF4D2DE9B09",
+      "overrideName": "847704CE-78B0-4325-839E-4FEA6A9F3721_stringValue",
+      "value": "Soothing Ointment (25g)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D6C1DEE6-1CB4-4D7E-96C7-BB20FF46F65F",
+      "overrideName": "DB7B4E82-6D13-481A-8290-E81DC24051F2_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/313e2dc7ab4a3936df1346de96a7b801bf1b8e95.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EADCFA2A-D56F-436A-A9C9-359547A4FE0E",
+      "overrideName": "674C874A-859F-4B3C-914A-783BC6C1AE14_stringValue",
+      "value": "x 1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3F35781D-4E84-4290-B3AF-5F4C83844577",
+      "overrideName": "99210B55-0099-4AF8-A13E-62351AF1DB1F_stringValue",
+      "value": "P500.00"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "514734E1-6B3E-400D-95F5-6F67E5D2D15D",
+      "overrideName": "52CD9153-D5B7-4C6A-A7C5-316B0DC923F5_stringValue",
+      "value": "P500.00"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C8899186-D0FD-40F5-A8BB-908EB7EE6D4B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EDFA3E52-5BDB-4B7B-8C6B-448D080DE573",
+  "verticalSpacing": 0
+}

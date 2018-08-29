@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "6693228A-972F-4A27-A664-49606B957DF9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5E89806F-3507-4D88-BEF1-3A443DCBBB3C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3981DFED-0537-42FD-ABBB-514182E5B0D5",
+    "height": 23,
+    "width": 22,
+    "x": 322,
+    "y": 41
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cart-icon",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6C73B75D-1753-469E-9AE1-FB629AD8ACB2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "33A3981B-ECEC-4D26-AF02-AD1B3B13A013",
+  "verticalSpacing": 0
+}

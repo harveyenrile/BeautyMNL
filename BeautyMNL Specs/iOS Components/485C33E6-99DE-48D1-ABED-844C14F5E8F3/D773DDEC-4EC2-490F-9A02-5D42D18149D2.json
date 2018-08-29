@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "D773DDEC-4EC2-490F-9A02-5D42D18149D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CE771229-2020-462B-97CB-5FA1DD3B430E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DDCC819C-7484-4713-A03C-3F0C01334ADA",
+    "height": 49,
+    "width": 375,
+    "x": 0,
+    "y": 145
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ListItem",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DF426993-632E-4756-90B6-A7600B99D6C9",
+      "overrideName": "9BB22330-AAEB-45C9-AD64-0A4BF0203C6E_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ACA06643-D968-4DFA-8891-D1BAB17C775F",
+      "overrideName": "F4A4B4B5-9FB3-4E8F-AB8F-0F588991F830_stringValue",
+      "value": "Skin Care"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FCEA0833-E311-423D-A08F-9B037F0FB7AB",
+      "overrideName": "14F37174-3703-4774-9045-8532E4327CD9/67C4450C-B54E-49FE-9A4E-95E3E22CF060_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6F87DAD4-97CC-4394-A959-09C61FC022CA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3D3A2F0C-E742-4ACF-BEE5-A2ABDB3124DF",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "45CA10B0-16C0-42FC-B330-6C3FB6C1457A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B1822E87-2771-4384-8AF5-4FC8520D7484",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "20D71B04-2430-4D4D-9919-7D05EC2F5F86",
+    "height": 25,
+    "width": 21,
+    "x": 14,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "667B353C-E591-473F-BC83-2273D341A740"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "68C83801-8ECF-4502-9B5A-7A6B9DFE2F9F"
+    }
+  ],
+  "name": "icon-account",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "29851FA6-EB3E-4E45-B2E1-E184C24404CC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

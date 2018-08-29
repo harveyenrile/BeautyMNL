@@ -1,0 +1,125 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "1D97F9B5-5811-43EA-8D1A-AD16E0D20F6A",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "B664A6B5-FFC0-4B8C-A2D9-FA53C6721526",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "95304D8E-6E12-45B0-A42D-3737667845E3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8F3AFEF3-E7E8-4C1F-AD47-05A28F2E84F6",
+    "height": 720,
+    "width": 360,
+    "x": 8,
+    "y": 978
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BD84379D-2E25-498B-9F0C-265049786135",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "0C7E67BA-046F-4FBD-982B-ACD87171E89C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A7FBE457-FFCA-40CF-83B7-8BD8653EE373"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0303419B-F888-4F2D-9EB6-54E60FFD1DAD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3233A2ED-125A-491D-87D4-1B7B0E9806E7"
+    },
+    {
+      "class": "text",
+      "id": "FFA7B966-7074-4293-A361-BC9AC675FB12"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0A128893-EA88-4516-9A19-67B419DB99E9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E4AED03A-AA0C-4016-93C0-00CE763F5C61"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0F23D072-71BC-4BA5-B1F4-3DCC3C0CE701"
+    },
+    {
+      "class": "group",
+      "id": "319DC04A-00AA-4514-B8FC-9DC7C95F7BA6"
+    },
+    {
+      "class": "group",
+      "id": "82A5D3F8-F166-4F80-ABE8-17A8EF2F8FAA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5CEC93F4-6EFC-46F6-B54F-EC03BE2C059A"
+    }
+  ],
+  "name": "Form",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 720,
+    "name": "Pixel 2 XL",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FBB23AF4-48EC-419B-B012-E98F8399F9AD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C701DFE4-F0FA-4552-BDF1-762C02CA942D",
+    "guides": [
+    ]
+  }
+}

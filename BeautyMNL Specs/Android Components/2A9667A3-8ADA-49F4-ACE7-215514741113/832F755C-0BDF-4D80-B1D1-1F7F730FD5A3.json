@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "832F755C-0BDF-4D80-B1D1-1F7F730FD5A3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Android/AppBar/default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CE201E73-C257-459D-88CF-E3BFFC3CF417",
+      "overrideName": "4A2723CE-4C23-424C-BD69-B5515B88E2D8_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5F24D312-1C9D-405B-904F-A3D0FACCAA8A",
+      "overrideName": "B1C4F893-5FA3-4EBC-9AF7-6AF9AECA18FE_symbolID",
+      "value": "E27A39EB-9A43-4B0F-8E6B-23E173BC53E5"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8CAC6244-A6A9-424B-848E-1D55A7CE85E5",
+      "overrideName": "F1C53975-5511-4339-9D75-AFE4EEAD01F9_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6D4575E2-F881-4241-A0AD-808B59DF432B",
+      "overrideName": "44DADFB1-2FCC-438B-BD81-CF6250AFC35C_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4DC8891D-A41E-409A-BB72-2C82C6FDDEF7",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "47D2471A-BB85-49B3-8307-F6A660CE100E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AAD5F465-99ED-4F97-AE1E-5560F2669B56",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2FAA1999-64C9-43B2-926F-42FA2E2F2178",
+    "height": 48,
+    "width": 125,
+    "x": 250,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0F5F25C2-066A-4CE7-9536-511A5892C951"
+    },
+    {
+      "class": "text",
+      "id": "A21DCB6F-8D22-4F92-B8AB-E281407456EF"
+    }
+  ],
+  "name": "Tab Copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "471F19AB-E945-41CD-BA11-892FC4703C0E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

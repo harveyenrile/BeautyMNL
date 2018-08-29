@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "71D3C147-3AEB-44A5-98AD-FAC221B1F7E6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DAFEE76A-ED49-467B-8297-03003BE8048A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AE4C55A1-E428-4BAD-A739-DE9DE31B9F88",
+    "height": 46,
+    "width": 138,
+    "x": 222,
+    "y": 613
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UI/Button/Primary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2CF259E3-C6DC-4641-8078-9663CC96E7B4",
+      "overrideName": "4882AA33-6BBA-4DA1-9CE9-B1413187A535_stringValue",
+      "value": "Add To Cart"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B1D49BF6-2DC1-464B-A737-9A188F4F6799",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FD951D23-40D5-4234-8748-DDB00413A9FC",
+  "verticalSpacing": 0
+}

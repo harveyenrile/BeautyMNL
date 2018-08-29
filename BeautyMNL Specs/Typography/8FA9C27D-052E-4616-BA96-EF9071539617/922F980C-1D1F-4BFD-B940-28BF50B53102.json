@@ -1,0 +1,90 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "922F980C-1D1F-4BFD-B940-28BF50B53102",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5171B456-4975-41B0-BFB5-8927444CF13A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DAE7EF66-2843-492E-A08C-48825799AEE5",
+    "height": 114,
+    "width": 375,
+    "x": 70,
+    "y": 102
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Views/MediaItem/Product/Sale Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "36FDA4DA-7358-4E76-9486-05889BB3CC55",
+      "overrideName": "57989ABA-D909-48DA-8E19-2F2174F7D983_stringValue",
+      "value": "x 1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ED68C6E2-B101-4B3B-9EC8-5E76E45A2A1E",
+      "overrideName": "568F1881-3D90-40A7-A456-D0CC6255FF5D_stringValue",
+      "value": "P500.00"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FCC3E7A5-C965-4C33-9B0D-8CDD66C3C0CB",
+      "overrideName": "79CDD2A8-EEB3-4E40-9174-465C7604A7E2_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/313e2dc7ab4a3936df1346de96a7b801bf1b8e95.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AF7DA123-1C70-4E91-BE41-72E7EDC8D565",
+      "overrideName": "3E4755EF-55CE-4173-9BF4-F91A7344FC03_stringValue",
+      "value": "Lucas Papaw"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4669BDF1-28E7-4F0F-97F7-851B0CE1A6E0",
+      "overrideName": "24061B94-D0E8-4BF1-995B-0FC67FC8EF54_stringValue",
+      "value": "P500.00"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B1EA7AF0-E576-47A4-89DA-D10A0DB7CF82",
+      "overrideName": "391CE578-3243-4689-AD86-D8CEF14A81F3_stringValue",
+      "value": "Soothing Ointment (25g)"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "96AEAC26-931A-43DD-BBC0-38DC80C425D3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BEC8258B-A497-4414-A7A3-23D2128B8FAC",
+  "verticalSpacing": 0
+}

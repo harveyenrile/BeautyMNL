@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "6B9D055B-304B-4EF6-8DDF-BAEE21097BF5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F7D96AFD-94C0-4286-A4ED-FA5CBE4194EC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4A9DFE80-4853-4D7F-B117-7A5B00580E59",
+    "height": 15,
+    "width": 15,
+    "x": 313,
+    "y": 13
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icon/Android/arrow-left",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A40DA38-5A44-479D-8D18-AFE5FDD0C59F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F4EA4431-267D-458C-9681-2744DC1F6564",
+  "verticalSpacing": 0
+}

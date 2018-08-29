@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "E0220EEE-5BDA-4A97-BF8D-49D2F9F61F2A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3727CC24-8686-493C-88F3-79F3B3CE8B0F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "0B26D4D3-6CC0-46A7-A80B-4286A67F1228",
+    "height": 24,
+    "width": 360,
+    "x": 32,
+    "y": 37
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "status bar",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0FB34DDA-5AC8-41D1-8118-1117D3ACBB20",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2F9461A6-7F74-49A4-B80F-F16B0DA43070",
+  "verticalSpacing": 0
+}

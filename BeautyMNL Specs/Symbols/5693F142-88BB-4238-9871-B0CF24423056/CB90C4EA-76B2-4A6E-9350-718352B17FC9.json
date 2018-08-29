@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "CB90C4EA-76B2-4A6E-9350-718352B17FC9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D7D440F3-8B92-4542-A392-374FCB866ED2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AC2E1B34-0893-4F64-BDB6-5EACB0BDCDB8",
+    "height": 59,
+    "width": 246,
+    "x": 8,
+    "y": 64
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Android/Bar/Sheet Item Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B5202449-CAAC-4922-9D6B-405FFF5B2441",
+      "overrideName": "FFE556D6-4F74-4260-8E10-E9118FC747B8_stringValue",
+      "value": "Office"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "615E6161-E65E-4B89-9306-07699AEAF4EC",
+      "overrideName": "70B4C7E6-2BA3-4D47-B2CC-87D6FB66371B_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "002AB1EA-99C8-474C-A9CD-66D40030FD9D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8B422ED6-0C02-49F6-9C99-6B218F99AD6E",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,162 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "do_objectID": "170C1D7A-3709-4EDA-829D-A626B04187BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -451,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "11AC0234-78E4-4ADC-B05C-C7FF281CA8A6"
+    },
+    {
+      "class": "text",
+      "id": "38248568-43A2-4C51-80B5-01791E937CDB"
+    },
+    {
+      "class": "text",
+      "id": "C374D2CC-8846-45AA-8F07-13271CD94FFD"
+    },
+    {
+      "class": "text",
+      "id": "B81686FD-55AA-4212-8466-42DC66CEFC08"
+    },
+    {
+      "class": "artboard",
+      "id": "2A9667A3-8ADA-49F4-ACE7-215514741113"
+    },
+    {
+      "class": "artboard",
+      "id": "F2D84943-5180-4AC4-BE90-B014D13E5525"
+    },
+    {
+      "class": "artboard",
+      "id": "4D62B869-F7AB-459D-8410-084C8DA9D7E0"
+    },
+    {
+      "class": "artboard",
+      "id": "D90A94CE-8BFA-4125-B684-557023976F07"
+    },
+    {
+      "class": "artboard",
+      "id": "246B8A5A-C729-4286-AC92-65EE23BC0A35"
+    },
+    {
+      "class": "artboard",
+      "id": "2BB11D95-EAEC-4703-A9A4-FF613AE8C354"
+    },
+    {
+      "class": "artboard",
+      "id": "8B825D08-2C69-43FA-8522-81902BE234E2"
+    },
+    {
+      "class": "artboard",
+      "id": "D486468D-A27C-4E5B-BDDA-3289CCFF9F26"
+    },
+    {
+      "class": "artboard",
+      "id": "EDEA95B2-ABD5-496B-B22A-AADA19A7F1A3"
+    },
+    {
+      "class": "artboard",
+      "id": "B166BD3D-D080-4B79-8260-AFF918BD4181"
+    },
+    {
+      "class": "artboard",
+      "id": "48402EF4-6203-4B0D-8BF8-64F7F29278E9"
+    },
+    {
+      "class": "artboard",
+      "id": "8C5EBAAF-4C1B-4E9E-897D-220A45199045"
+    },
+    {
+      "class": "artboard",
+      "id": "B664A6B5-FFC0-4B8C-A2D9-FA53C6721526"
+    },
+    {
+      "class": "artboard",
+      "id": "EE91EAE4-A94E-4B50-8BCB-A2BE90E3D839"
+    },
+    {
+      "class": "artboard",
+      "id": "0BA5EFB3-6437-448E-AD5A-987E8584721A"
+    },
+    {
+      "class": "artboard",
+      "id": "168BB63C-0286-4C70-8C2F-4E1B07E3DAFC"
+    },
+    {
+      "class": "artboard",
+      "id": "CC0DE5EC-0435-4B25-87D4-371E9C075979"
+    },
+    {
+      "class": "artboard",
+      "id": "CA49F872-2029-4B8B-BADD-B2850B776AF0"
+    },
+    {
+      "class": "artboard",
+      "id": "0B47DEA0-3211-455B-A32E-063212324608"
+    },
+    {
+      "class": "artboard",
+      "id": "F4A32F8F-719B-4488-8983-242C24DE9C5F"
+    },
+    {
+      "class": "artboard",
+      "id": "A686C37E-C05D-4D49-8BFD-E42F0090BFEB"
+    }
+  ],
+  "name": "Android Components",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "DLMidnight": {
+      "layerColor": "red"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -415,
+    "guides": [
+    ]
+  }
+}

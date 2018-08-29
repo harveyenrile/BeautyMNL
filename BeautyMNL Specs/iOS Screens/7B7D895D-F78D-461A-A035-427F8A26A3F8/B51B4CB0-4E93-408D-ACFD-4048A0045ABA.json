@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "B51B4CB0-4E93-408D-ACFD-4048A0045ABA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2FC1F2CD-3D9A-4936-B264-381783D0D90D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5A11A27E-A066-4180-A61D-31C0C6CBDFB7",
+    "height": 44,
+    "width": 375,
+    "x": 0,
+    "y": 20
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bar/Search w Arrow/Active",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "949A2226-9E5C-450C-9E1F-0FD05FC60448",
+      "overrideName": "9128B5A5-74BC-4B77-812A-863AFD6CD0F0_stringValue",
+      "value": "Lips"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "561894E8-A02B-4F85-A78F-CB97048C9557",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E2F82368-8F5C-4CC6-968E-89ACFDA73B32",
+  "verticalSpacing": 0
+}

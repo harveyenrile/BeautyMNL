@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "41D6FBA7-69E7-49E0-B40D-94829C5FF17D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "186CAC27-1C9F-4A17-B469-3ED5684671EA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "319DE1E7-B838-49F2-B1BB-59A9F7AD7622",
+    "height": 65,
+    "width": 375,
+    "x": 0,
+    "y": 300
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ListItem Expand Copy",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "72B5F4F1-75A4-4391-A6A0-DD785623767D",
+      "overrideName": "9BB22330-AAEB-45C9-AD64-0A4BF0203C6E_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C20F476A-78D6-4AB9-B681-8B6CEEA76DC0",
+      "overrideName": "14F37174-3703-4774-9045-8532E4327CD9/67C4450C-B54E-49FE-9A4E-95E3E22CF060_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "71714F40-BE42-4158-B4FB-40C0B0D6A5A7",
+      "overrideName": "70D7C03B-B804-4BEE-98DC-27D80BD148B1/6D27E294-D3A6-4BEE-A9D5-AB5FB9C29BB8_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9a90c9e88e568ace2ab6b2b0f0a0b76bb6ed546e.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4BAC8EFF-39CD-44A8-9A99-66761E53EEE7",
+      "overrideName": "385C2B67-3BD1-44A5-B5BD-64667B7293FA_stringValue",
+      "value": "Superstay Matte Ink Liquid Lip..."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0ABF1491-CA2D-4A9A-B31F-8D1C2BEFD8D3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D676987E-1196-4783-9CC5-6F243B636A5D",
+  "verticalSpacing": 0
+}

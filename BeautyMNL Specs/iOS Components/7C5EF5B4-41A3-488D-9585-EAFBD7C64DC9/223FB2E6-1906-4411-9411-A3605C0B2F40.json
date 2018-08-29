@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "223FB2E6-1906-4411-9411-A3605C0B2F40",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B6AD14F6-BCFE-4E1A-B29A-80672763760E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2BA48F2F-F9BC-4F96-A5DF-304C27F18E65",
+    "height": 45,
+    "width": 375,
+    "x": 0,
+    "y": 20
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Navigation/Dropdown",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D057E27B-FCAB-4B85-8D77-A4306691C584",
+      "overrideName": "ACABE513-2AED-431A-AB03-235BCA496902_stringValue",
+      "value": "Skin Care"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EED9971F-B78A-4ECC-8D43-8369680BE0B5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C4FD4A79-E843-4866-8DC3-ED66F9E0C58F",
+  "verticalSpacing": 0
+}

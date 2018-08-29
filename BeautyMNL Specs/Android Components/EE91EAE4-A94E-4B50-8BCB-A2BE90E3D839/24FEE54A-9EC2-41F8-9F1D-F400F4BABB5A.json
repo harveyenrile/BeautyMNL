@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "24FEE54A-9EC2-41F8-9F1D-F400F4BABB5A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FC44099B-292A-436E-826D-058C5FF38FCB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FCF64420-4DBC-4721-A3B2-10FB08B0E08E",
+    "height": 56,
+    "width": 360,
+    "x": 0,
+    "y": 80
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Android/Bar/Sheet Item Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B5202449-CAAC-4922-9D6B-405FFF5B2441",
+      "overrideName": "FFE556D6-4F74-4260-8E10-E9118FC747B8_stringValue",
+      "value": "Maybelline"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6230AA0F-D581-4339-8E11-CD9D3C8D45EE",
+      "overrideName": "91504E63-346A-4E23-8A1D-A355A75BE514_symbolID",
+      "value": "9D0CB2C2-9E03-4382-98D8-18BF0D25EE03"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "28BE92EE-94EE-43DC-AF55-2B80630D30F4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8B422ED6-0C02-49F6-9C99-6B218F99AD6E",
+  "verticalSpacing": 0
+}

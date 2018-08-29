@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "5D86DC8D-C903-4ECC-87FC-D99D4356DD5F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8856E416-BF2F-451B-83E5-D2E71FEF1F56",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EB61A17E-7096-4F65-9D86-9D3891AB0341",
+    "height": 49,
+    "width": 375,
+    "x": 0,
+    "y": 336
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ListItem Expand Copy 2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "72B5F4F1-75A4-4391-A6A0-DD785623767D",
+      "overrideName": "9BB22330-AAEB-45C9-AD64-0A4BF0203C6E_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C20F476A-78D6-4AB9-B681-8B6CEEA76DC0",
+      "overrideName": "14F37174-3703-4774-9045-8532E4327CD9/67C4450C-B54E-49FE-9A4E-95E3E22CF060_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C0207995-6E0D-41E6-9541-7185F9F91CB1",
+      "overrideName": "F5A0F48B-10B1-4910-9E10-0DA042D3A972_stringValue",
+      "value": "Lip Contour Lip Liner"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BC566495-EECB-443D-817C-714D34B9CF57",
+      "overrideName": "090A6A19-CB95-4D02-9703-ACC8E05CAA61/6D27E294-D3A6-4BEE-A9D5-AB5FB9C29BB8_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/7c419737aedf9252ae7b38e3da5948558abe90ba.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4475727A-CDFE-4466-8E18-89D6A2D04F92",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BF629E60-D00A-4B97-B8B1-95C89ECDD62B",
+  "verticalSpacing": 0
+}

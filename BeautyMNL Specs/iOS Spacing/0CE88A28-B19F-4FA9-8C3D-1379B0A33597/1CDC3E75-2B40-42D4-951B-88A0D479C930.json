@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "1CDC3E75-2B40-42D4-951B-88A0D479C930",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "83D81D3D-1611-44CF-9BB5-8BCE54C54B5D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DDD7AB7C-6018-49F1-8599-E1DAF2B2B1F8",
+    "height": 62,
+    "width": 375,
+    "x": 108,
+    "y": 567
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ListItem/Checkbox/Left",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E4F75E37-6625-43F5-A75E-14FBB659F2BF",
+      "overrideName": "14F62545-E19C-456D-BF20-F06636074242_stringValue",
+      "value": "Sm Aura"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1723AECF-C799-43B2-85D6-BD76011CD335",
+      "overrideName": "EB1A8757-1CD2-4141-BC86-1F88C818AD8C_stringValue",
+      "value": "Lower Ground Floor, near SM Supermarket"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5BA9C35D-0465-48CC-B2E6-34773A37816F",
+      "overrideName": "ACC99309-3AC5-45A3-8BAD-7C9D0938D616_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0A558A20-DD5C-4DD2-8013-00051A77AB64",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EC44928B-91CB-4B41-B136-CD4092F8C8F0",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "C7F2E5D4-A73D-49CB-A17F-095061BBBF7C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F503DD94-CC4E-457A-9504-5F71A04287F5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EB46A44F-99FE-428C-A274-63D7E7F61C4C",
+    "height": 250,
+    "width": 375,
+    "x": 0,
+    "y": 417
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bar/Sheet",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E3F8FE23-A4BB-4D33-A43A-326C1A7FA764",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C847DF5D-C9CA-4376-8403-1F6333235A72",
+  "verticalSpacing": 0
+}

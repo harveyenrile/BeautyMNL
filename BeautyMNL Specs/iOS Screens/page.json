@@ -1,0 +1,85 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "do_objectID": "C1433F79-BFAA-4DE7-B36E-1939F0D612C2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -451,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "7B066C17-8FA5-4278-96AA-2784DC7432B8"
+    },
+    {
+      "class": "text",
+      "id": "B3BD384F-5E7C-4033-934C-0EE4EF2F9EE4"
+    },
+    {
+      "class": "text",
+      "id": "D74441EC-C558-4336-B48B-765FF4A22491"
+    },
+    {
+      "class": "artboard",
+      "id": "E28BE3D2-CD74-43DE-986A-18057B7EC4B9"
+    },
+    {
+      "class": "artboard",
+      "id": "60542D3D-3724-4631-A916-E0D86EFD585A"
+    },
+    {
+      "class": "artboard",
+      "id": "7B7D895D-F78D-461A-A035-427F8A26A3F8"
+    },
+    {
+      "class": "artboard",
+      "id": "48FEB82D-1201-4D7F-A9DD-1828F09EE4FE"
+    }
+  ],
+  "name": "iOS Screens",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -415,
+    "guides": [
+    ]
+  }
+}

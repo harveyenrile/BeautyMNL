@@ -1,0 +1,90 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "536137DE-F3D7-40F1-B4DF-C819953F4AF9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "83BE96C1-0455-4287-A5E8-33C798C56AEA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8F96A302-0899-4F56-8D7F-9F51834BB739",
+    "height": 295,
+    "width": 156,
+    "x": 187,
+    "y": 35
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tile/Product Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "78CFB569-3978-41E5-8A51-8F6CA53F641F",
+      "overrideName": "EDA967C6-0A37-49A6-8308-D2E33EA5677A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/313e2dc7ab4a3936df1346de96a7b801bf1b8e95.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D1EBDC82-F48D-4616-9BB8-32AF7B656E66",
+      "overrideName": "21EB57C7-8E97-499F-B5F1-99531DBB8252_stringValue",
+      "value": "Soothing Oinment (2..."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2E47F67D-C88A-4C47-BA2B-B4CC9776BC41",
+      "overrideName": "5909EFEB-76B2-4DAC-9C48-DD82BD2B9CD9_stringValue",
+      "value": "94"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B5E6EE1C-7631-4DC9-95DC-B07DF1B419E4",
+      "overrideName": "CBF6EE1C-512F-4888-8F26-17BDDF07BB45_stringValue",
+      "value": "P600.00"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F232C1C4-5866-45FA-AB23-8F859416F5EE",
+      "overrideName": "A9318D5A-79B3-4B72-BED3-2B7277B010BC_stringValue",
+      "value": "Lucas Papaw"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B5A22A2F-70F3-4432-9302-98E6B0FAAAE4",
+      "overrideName": "F3DAE281-7ECA-403B-9212-A2B0DA7E4AA4_stringValue",
+      "value": "P499.00"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CBD68CB2-919D-491C-8D2A-DFD980FCF2C8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "535F928B-ACFE-4E21-AA02-385C2C800E1A",
+  "verticalSpacing": 0
+}

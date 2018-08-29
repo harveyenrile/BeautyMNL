@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "B57FB0A6-C1E9-4C26-B4BC-FFD4B67244E1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "74385A1C-A8DB-418E-91AA-96CAD3CE50CA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "26575F22-1177-4CFA-AF81-8FE8E09B4482",
+    "height": 31,
+    "width": 375,
+    "x": 108,
+    "y": 381
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ListItem/Description Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0A9B6833-9778-4B94-8BC8-2ED89D0A17C9",
+      "overrideName": "AE827D31-1A05-402D-AAE3-23AD43CE9776_stringValue",
+      "value": "List item with Image"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E593B0AA-11C8-4A0B-87CB-9D95B5E91E09",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4158E336-0BD1-4C40-8F56-397832EA06C0",
+  "verticalSpacing": 0
+}

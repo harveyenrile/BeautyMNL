@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "0303419B-F888-4F2D-9EB6-54E60FFD1DAD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "17DC931E-E03E-4108-874F-6C2BE25FF81E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "484C21A2-CA72-40D4-A673-00675AB6EF5C",
+    "height": 79,
+    "width": 328,
+    "x": 16,
+    "y": 205
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "FieldControl Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A2E66127-0908-419F-9B18-5F4010DABE76",
+      "overrideName": "B6257E80-2846-498B-929E-4C72F93F9FD0_stringValue",
+      "value": "Contact Number"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "08AB7DDB-46B9-43A9-AED7-D9347F8FE8EC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7BE7AA5D-D4E6-4D52-A165-8AD9A3339C50",
+  "verticalSpacing": 0
+}
