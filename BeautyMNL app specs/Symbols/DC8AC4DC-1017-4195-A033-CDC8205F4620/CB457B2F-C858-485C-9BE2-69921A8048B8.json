@@ -9,37 +9,37 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3019607843137255,
-            "green": 0.4784313725490196,
-            "red": 0.596078431372549
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "GothamMedium",
-              "size": 14
+              "size": 15
             }
           },
           "kerning": 0,
-          "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 7,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "DECLINE"
+    "string": "Text"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
-  "do_objectID": "09B74C63-A466-43FD-9CC7-EE7A7E3361A6",
+  "do_objectID": "CB457B2F-C858-485C-9BE2-69921A8048B8",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "669CD9F2-09BD-442F-BDEA-C7C04C1454A0",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,50 +50,51 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "2AFA931A-7D36-4AD9-BE07-931982CED524",
     "height": 13,
-    "width": 65,
-    "x": 5.5,
+    "width": 170,
+    "x": 0,
     "y": 15
   },
-  "glyphBounds": "{{1, 0}, {63, 11}}",
+  "glyphBounds": "{{68, 0}, {34, 12}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 1,
-  "name": "DECLINE",
+  "lineSpacingBehaviour": 2,
+  "name": "Text",
   "nameIsFixed": false,
-  "resizingConstraint": 10,
-  "resizingType": 2,
+  "resizingConstraint": 47,
+  "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "65BC371B-9229-4626-8160-247C050367E6",
+    "do_objectID": "7F75BDBA-F762-490B-9E87-FDD0D27D3B70",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "E8264C61-1412-41E0-8C7A-5909FA0759C2",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3019607843137255,
-          "green": 0.4784313725490196,
-          "red": 0.596078431372549
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "GothamMedium",
-            "size": 14
+            "size": 15
           }
         },
         "kerning": 0,
-        "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
@@ -104,5 +105,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

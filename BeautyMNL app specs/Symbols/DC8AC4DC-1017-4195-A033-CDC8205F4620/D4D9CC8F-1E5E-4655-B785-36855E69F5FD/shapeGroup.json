@@ -2,10 +2,10 @@
   "_class": "shapeGroup",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "447CAAED-6A74-415A-97E1-928D2DC3672E",
+  "do_objectID": "D4D9CC8F-1E5E-4655-B785-36855E69F5FD",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0B89705F-8BA2-42A5-8013-3B80E00B3EDD",
+    "do_objectID": "1191CB8C-76DA-41E9-A05D-4491262F2A46",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,8 +16,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "CCA1DEB7-F151-490F-9619-8A431D49F8C0",
-    "height": 46,
+    "do_objectID": "82AB89F5-4843-4E6B-A13E-BE3218B5F4F1",
+    "height": 42,
     "width": 170,
     "x": 0,
     "y": 0
@@ -33,12 +33,12 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "691045BC-CB76-4726-87D9-224A1F48AA21"
+      "id": "231019CC-A5D0-4C44-8D47-70FBA9A88B85"
     }
   ],
   "name": "Mask",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -60,7 +60,7 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "907053E9-08FD-483E-88C3-7907E98B9DF8",
+    "do_objectID": "6BC2D1EA-1B05-4ACD-8355-D66F743F845C",
     "endMarkerType": 0,
     "fills": [
       {
@@ -81,6 +81,7 @@
       }
     ],
     "miterLimit": 10,
+    "sharedObjectID": "E4059E68-8AD6-439F-B451-1776B675ADF6",
     "startMarkerType": 0,
     "windingRule": 0
   },

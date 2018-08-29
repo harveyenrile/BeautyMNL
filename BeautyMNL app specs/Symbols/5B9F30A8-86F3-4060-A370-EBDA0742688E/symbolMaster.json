@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 263,
+  "changeIdentifier": 389,
   "do_objectID": "5B9F30A8-86F3-4060-A370-EBDA0742688E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,8 +27,8 @@
     "do_objectID": "C5DF3C0D-2B83-4F06-B0B5-25EBF89AD5A3",
     "height": 46,
     "width": 170,
-    "x": 5682,
-    "y": 228
+    "x": 5513,
+    "y": 263
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -59,7 +59,7 @@
       "id": "9CE0D68B-0B6D-448B-BD7E-FABBE3EFD28A"
     }
   ],
-  "name": "Elements/Button/Default/Large",
+  "name": "Elements/Button/O/Large",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

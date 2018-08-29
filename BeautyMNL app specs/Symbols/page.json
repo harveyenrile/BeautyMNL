@@ -524,10 +524,6 @@
     },
     {
       "class": "symbolMaster",
-      "id": "8BD05683-4C06-4DF8-9BA0-9C07F652ADEF"
-    },
-    {
-      "class": "symbolMaster",
       "id": "D6D2D4B3-45B8-4C63-A971-6959EFBE11B8"
     },
     {
@@ -600,7 +596,15 @@
     },
     {
       "class": "symbolMaster",
+      "id": "498AB60C-CADF-4EA3-ABCD-E0D3B4CB62B0"
+    },
+    {
+      "class": "symbolMaster",
       "id": "6F792EE5-40B3-4A81-8988-23CEC5AF28F9"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "DC8AC4DC-1017-4195-A033-CDC8205F4620"
     },
     {
       "class": "symbolMaster",
@@ -608,7 +612,15 @@
     },
     {
       "class": "symbolMaster",
+      "id": "1118A824-BB23-4181-BA5B-655CC2A3622E"
+    },
+    {
+      "class": "symbolMaster",
       "id": "5B9F30A8-86F3-4060-A370-EBDA0742688E"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "351EF93A-1D1F-41C8-8E6D-606814937EA2"
     },
     {
       "class": "symbolMaster",

@@ -2,10 +2,10 @@
   "_class": "shapeGroup",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "447CAAED-6A74-415A-97E1-928D2DC3672E",
+  "do_objectID": "45BDD960-7C4D-4D62-B489-7C76B910BBBF",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0B89705F-8BA2-42A5-8013-3B80E00B3EDD",
+    "do_objectID": "241AB23F-CDDA-42B7-BE24-EAAB81183CB6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,8 +16,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "CCA1DEB7-F151-490F-9619-8A431D49F8C0",
-    "height": 46,
+    "do_objectID": "9D74571E-E67C-4E59-AA15-D29B5B2729A8",
+    "height": 42,
     "width": 170,
     "x": 0,
     "y": 0
@@ -33,7 +33,7 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "691045BC-CB76-4726-87D9-224A1F48AA21"
+      "id": "5E9CF6B7-F4C1-4D1B-839F-216B80B5C7AD"
     }
   ],
   "name": "Mask",
@@ -50,17 +50,17 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "blue": 0.2274509804,
+          "green": 0.1019607843,
+          "red": 0.09019607843
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "position": 1,
         "thickness": 1
       }
     ],
-    "do_objectID": "907053E9-08FD-483E-88C3-7907E98B9DF8",
+    "do_objectID": "A114FE50-C6E1-4AF3-9683-F7F5C089C9A8",
     "endMarkerType": 0,
     "fills": [
       {

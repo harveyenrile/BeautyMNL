@@ -4,14 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "2912047A-DE62-4047-9E78-4E2015C01C0F",
     "green": 1,
     "red": 1
   },
-  "booleanOperation": 0,
-  "changeIdentifier": 49,
-  "do_objectID": "8BD05683-4C06-4DF8-9BA0-9C07F652ADEF",
+  "booleanOperation": -1,
+  "changeIdentifier": 644,
+  "do_objectID": "351EF93A-1D1F-41C8-8E6D-606814937EA2",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "49DBDFEC-CE4A-4B67-9D10-22C0EF521C10",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -22,16 +24,18 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 52,
-    "width": 640,
-    "x": 0,
-    "y": 4404
+    "do_objectID": "4AEFA80C-53D7-4DCB-A23C-6B3D99175BA8",
+    "height": 46,
+    "width": 170,
+    "x": 5894,
+    "y": 263
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "652DE416-9BAF-457B-B637-2BC1E1788C27",
     "guides": [
     ]
   },
@@ -47,11 +51,15 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "91FB5E53-3BB6-4CAC-9725-60988066658F"
+      "class": "shapeGroup",
+      "id": "BB829C25-6FC1-4718-96D4-350BC241CD1C"
+    },
+    {
+      "class": "text",
+      "id": "4F4ED6FC-7897-41D7-B83B-3D0FD30FD967"
     }
   ],
-  "name": "dialog/actions",
+  "name": "Elements/Button/O/Large/Rounded",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -60,15 +68,17 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "6A708960-31CF-4895-AD0F-3FF401BD5C2F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "8A192313-22DF-44EB-BE82-FF535D23A18A",
+  "symbolID": "5074E9E2-3851-4CA3-856D-2D7D5DA9CCC5",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "0216EA5A-F000-4230-B338-B0096E210A44",
     "guides": [
     ]
   }
