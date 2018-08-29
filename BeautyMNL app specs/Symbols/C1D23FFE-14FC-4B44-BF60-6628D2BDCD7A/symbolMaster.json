@@ -1,0 +1,81 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "BC8AD9ED-F9C2-46AE-A0F6-2A0AE51852D8",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 204,
+  "do_objectID": "C1D23FFE-14FC-4B44-BF60-6628D2BDCD7A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9D59B5E8-D592-4E0C-8098-4D87BEB58D87",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4D8BF4AC-EF58-49CB-A2C8-B0523666BC54",
+    "height": 54,
+    "width": 233,
+    "x": 5322,
+    "y": -183
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0111AD9A-8033-4E8E-920C-83B9B9C7F4C7",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0E6171BE-C4E1-4606-93A0-285D06CF71A7"
+    }
+  ],
+  "name": "Color/Fill/LightestGray",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1030430B-209B-4E82-9562-B0669F64D5C0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0DD67025-4352-44CD-9955-688501DFCB02",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "74DC8EF0-EA24-4D93-8888-E109A9F7B1D9",
+    "guides": [
+    ]
+  }
+}

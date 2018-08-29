@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "DC2A6B0F-FA7D-482D-92EB-1896E4E48468",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A8A96DCD-59AA-4F9E-9CC4-2ED1307540C2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D98587A5-99BC-4E03-AFE4-FDE78BBA69A6",
+    "height": 28,
+    "width": 73,
+    "x": 692,
+    "y": 486
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Elements/Tag/black Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "14ED9C3A-D835-4474-AEC7-2414A8060879",
+      "overrideName": "B9D519A2-9A0E-4AC1-89AC-786C02EB2C6E_symbolID",
+      "value": "19176BB2-3D0D-4AE9-A0CF-43B1258BDF2B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B378E2B4-8AC0-444F-9E32-B1BADB0F7ECC",
+      "overrideName": "988CB935-A3A4-4D33-901D-78BA4E3CE284_stringValue",
+      "value": "Notice"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9EC82BB8-371A-4D87-B25A-651957778FF3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "87FBE2BB-E717-4E83-BCDA-BBA9363992DF",
+  "verticalSpacing": 0
+}
