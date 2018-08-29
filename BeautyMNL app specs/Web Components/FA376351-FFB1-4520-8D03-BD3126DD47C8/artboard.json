@@ -47,6 +47,30 @@
     {
       "class": "symbolInstance",
       "id": "1BCA0BB4-5C95-48A6-9739-031DBB4EA48B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "99FC2B10-986A-4A59-A2F8-34F569642862"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3AD545FD-6EC5-4B04-B930-BF76DA2ADA0F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DEB6E2BF-2E05-43B0-94DA-C6B56323C421"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A947BD6A-DDD3-4EDA-B35C-5AC52D80D45D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B36913FA-202B-438D-860A-1F3040FEB773"
+    },
+    {
+      "class": "text",
+      "id": "0A8BFF86-C061-424E-8BA7-7614D8114E5C"
     }
   ],
   "layout": {
@@ -59,12 +83,12 @@
     "gutterWidth": 20,
     "guttersOutside": true,
     "horizontalOffset": 32,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 960
   },
-  "name": "Desktop",
+  "name": "Desktop 12-Col 1024px",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
