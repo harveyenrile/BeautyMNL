@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4842155612244898,
-            "green": 0.4842155612244898,
-            "red": 0.4842155612244898
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFUIText-Semibold",
-              "size": 14
+              "name": "SFUIText-Regular",
+              "size": 12
             }
           },
           "kerning": 0,
@@ -28,19 +28,19 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 7,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "#E8EAEE"
+    "string": "$color-alert"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "0835A756-EA1C-4BDE-9E2D-0723D35D60F3",
+  "do_objectID": "6BAE4A1E-DA34-4CFE-9E0F-3198BE7791E5",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "EA149460-56CB-443C-92D9-7E3F8111FB28",
+    "do_objectID": "094047F6-9CCA-4514-8A95-BA88E9459490",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,13 +51,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "149A463F-105A-4AB0-84DF-57E169759DD9",
-    "height": 16,
-    "width": 63,
-    "x": 15,
-    "y": 97
+    "do_objectID": "0733725A-8BF0-4BFC-B330-B9C5C364CAB6",
+    "height": 14,
+    "width": 68,
+    "x": 14,
+    "y": 79
   },
-  "glyphBounds": "{{0, 2}, {62, 12}}",
+  "glyphBounds": "{{0, 1}, {67, 11}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "#E8EAEE",
+  "name": "$color-alert",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -73,26 +73,26 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "8E10CCE0-D8CC-4A04-BAD6-2B8794AEFC17",
+    "do_objectID": "A6EFEFDA-BBD4-4221-92E1-878CA6206244",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "AD360C3A-372B-4E90-B746-00A27CAD36C5",
+      "do_objectID": "6D10CF37-82D4-499B-BAAC-94DC907B1C3C",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4842155612244898,
-          "green": 0.4842155612244898,
-          "red": 0.4842155612244898
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SFUIText-Semibold",
-            "size": 14
+            "name": "SFUIText-Regular",
+            "size": 12
           }
         },
         "kerning": 0,

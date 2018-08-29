@@ -1,7 +1,7 @@
 {
-  "_class": "group",
+  "_class": "page",
   "booleanOperation": -1,
-  "do_objectID": "7D5F0448-FAE4-43AD-867F-6EC46E3A73D7",
+  "do_objectID": "B800C104-CF67-4FAA-88D5-04C84F6EC6F9",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,33 +14,32 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 128,
-    "width": 128,
-    "x": 75,
-    "y": 156
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
   },
-  "hasClickThrough": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -467,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "0F030B9F-6E3D-4724-85E3-13398FF64441"
-    },
-    {
-      "class": "text",
-      "id": "867C7092-36FB-4139-A57E-46AD52B81D4A"
-    },
-    {
-      "class": "text",
-      "id": "F3A717F4-2405-45BB-B9A9-B70C17EB21AB"
+      "class": "artboard",
+      "id": "FA376351-FFB1-4520-8D03-BD3126DD47C8"
     }
   ],
-  "name": "Color/Red",
+  "name": "Web Components",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -52,5 +51,16 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "DLMidnight": {
+      "layerColor": "blue"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -415,
+    "guides": [
+    ]
   }
 }

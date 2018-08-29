@@ -34,6 +34,10 @@
     {
       "class": "text",
       "id": "52EA51E7-A55C-46A3-93CD-ABC2D5AA120E"
+    },
+    {
+      "class": "text",
+      "id": "11C5A608-B706-4A84-BA17-0F59E093A17B"
     }
   ],
   "name": "Color/LightestGray",
