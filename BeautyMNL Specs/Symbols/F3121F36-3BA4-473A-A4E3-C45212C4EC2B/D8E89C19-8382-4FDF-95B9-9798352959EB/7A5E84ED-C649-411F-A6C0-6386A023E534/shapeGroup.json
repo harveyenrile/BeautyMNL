@@ -1,11 +1,11 @@
 {
   "_class": "shapeGroup",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E8D9D5CA-83B9-47F7-B7BE-D276CF019ABE",
+  "do_objectID": "7A5E84ED-C649-411F-A6C0-6386A023E534",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "16925BCD-1566-4798-9796-5639B9E82233",
+    "do_objectID": "EF8DCE02-FE68-4443-9911-B6487F9C57BF",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,8 +16,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BD727D40-B02D-4CD4-8579-1ECD39DB2E71",
-    "height": 24,
+    "do_objectID": "AB8474FA-6D4B-4B24-8E97-1FA867F4F899",
+    "height": 79,
     "width": 360,
     "x": 0,
     "y": 0
@@ -29,22 +29,38 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
-      "id": "D3C5391A-CEAB-4B54-8420-7ACE1BF7A04B"
+      "id": "23B164B7-052B-47D7-B915-11CE6792D87F"
     }
   ],
-  "name": "status bar bg",
-  "nameIsFixed": true,
+  "name": "Rectangle",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "26603133-017F-4D2B-A6D6-C2CCA4EA4841",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "60974CB1-DFD2-4D0F-AE88-F2FDC32E23CE",
     "endMarkerType": 0,
     "fills": [
       {
@@ -52,22 +68,21 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2549019607843137,
-          "green": 0.2549019607843137,
-          "red": 0.2745098039215687
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
-        "do_objectID": "D4A42C01-ED7A-4A20-9A5C-95B8F6300B17",
         "fillType": 0,
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
-        "patternFillType": 0,
+        "patternFillType": 1,
         "patternTileScale": 1
       }
     ],
     "miterLimit": 10,
     "startMarkerType": 0,
-    "windingRule": 1
+    "windingRule": 0
   },
-  "windingRule": 1
+  "windingRule": 0
 }

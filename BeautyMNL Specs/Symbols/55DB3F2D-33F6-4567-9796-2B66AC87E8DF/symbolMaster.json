@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 258,
+  "changeIdentifier": 259,
   "do_objectID": "55DB3F2D-33F6-4567-9796-2B66AC87E8DF",
   "exportOptions": {
     "_class": "exportOptions",
@@ -31,7 +31,7 @@
     "y": 66
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,15 +48,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "24FA5F05-F539-48DE-A490-4514AC153241"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "E8D9D5CA-83B9-47F7-B7BE-D276CF019ABE"
     }
   ],
   "name": "Android/AppBar/default w dropdown subtitle",

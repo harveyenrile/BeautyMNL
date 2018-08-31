@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
-  "do_objectID": "B7C4B2BC-590B-4E66-B0BC-422E186D3F22",
+  "do_objectID": "2A64F1D5-6753-4662-B9EF-4523078410BB",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "95C9C5DF-BC55-496C-8140-65DCE278AC70",
+    "do_objectID": "A87D85DB-845D-4C01-9DFF-D41B42C99616",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,12 +14,12 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "do_objectID": "B289858E-F538-45C8-9833-AFBBB6F36953",
+    "constrainProportions": false,
+    "do_objectID": "DFB31FE0-CB94-4447-89B0-4592ACF63490",
     "height": 15,
     "width": 15,
     "x": 19,
-    "y": 43
+    "y": 45
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -39,7 +39,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "6C4F3CEF-5C8F-4248-86B5-10D902460832",
+    "do_objectID": "A52F2953-1B9D-476B-8050-08585C285AA1",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

@@ -4,16 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "ABD1CFE7-9274-4556-9B2D-7A2F3AA38E2D",
+    "do_objectID": "BC8E67BF-E21A-4FE3-985A-3253B797A9CA",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 266,
-  "do_objectID": "8FCE7EE6-7782-468A-82A6-FF39F52981C6",
+  "changeIdentifier": 287,
+  "do_objectID": "F3121F36-3BA4-473A-A4E3-C45212C4EC2B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "15C701AF-DE26-4ACE-84A8-DBF5E1B774E5",
+    "do_objectID": "DF5499D6-8FB6-4558-86A1-B2A9C2253547",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,18 +24,18 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "369B6D5E-F734-4569-8D16-BEF708005E45",
+    "do_objectID": "A61199D9-5AA2-41D0-B562-9249100C8ABD",
     "height": 80,
     "width": 360,
-    "x": 1934,
-    "y": 66
+    "x": 2760,
+    "y": -60
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "B13AC551-D532-4AE4-B686-2CFF6464ACA4",
+    "do_objectID": "715F51A5-84AB-47CE-9356-DC5E93D3907A",
     "guides": [
     ]
   },
@@ -52,10 +52,10 @@
   "layers": [
     {
       "class": "group",
-      "id": "FA48E9CF-4E59-4C64-B0BA-6EE66998B4D0"
+      "id": "D8E89C19-8382-4FDF-95B9-9798352959EB"
     }
   ],
-  "name": "Android/AppBar/with Action",
+  "name": "Android/AppBar/default w subtitle",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -64,17 +64,17 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "210D54BD-8746-4D60-B0D3-9596D75A85C2",
+    "do_objectID": "35976D04-F08A-438C-9558-BDB1D3C0B04C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "F0E87B2C-D5FF-4023-AF40-1B40A461DA6D",
+  "symbolID": "DD4C9216-F439-4B97-810F-91A150D035C9",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "E7943B6C-449F-45B4-899A-D4A4826FF214",
+    "do_objectID": "7C5AC0DD-D002-4563-A73D-0B04D0282170",
     "guides": [
     ]
   }

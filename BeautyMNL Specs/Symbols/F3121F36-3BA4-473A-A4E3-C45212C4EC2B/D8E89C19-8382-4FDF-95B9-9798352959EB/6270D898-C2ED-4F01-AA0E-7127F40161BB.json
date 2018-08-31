@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
-  "do_objectID": "B7C4B2BC-590B-4E66-B0BC-422E186D3F22",
+  "booleanOperation": -1,
+  "do_objectID": "6270D898-C2ED-4F01-AA0E-7127F40161BB",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "95C9C5DF-BC55-496C-8140-65DCE278AC70",
+    "do_objectID": "108EBCDF-37A4-4EF9-9B9E-60266066B7A7",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,12 +14,12 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "do_objectID": "B289858E-F538-45C8-9833-AFBBB6F36953",
-    "height": 15,
-    "width": 15,
-    "x": 19,
-    "y": 43
+    "constrainProportions": false,
+    "do_objectID": "ED68BC5C-6483-4C1A-B7BE-5BD5B69FD6F2",
+    "height": 23,
+    "width": 22,
+    "x": 322,
+    "y": 41
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -28,23 +28,23 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "icon",
-  "nameIsFixed": true,
+  "name": "Cart-icon",
+  "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 41,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "6C4F3CEF-5C8F-4248-86B5-10D902460832",
+    "do_objectID": "36E31E3C-7CE2-42E5-8926-BFCB1E810AB1",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "E27A39EB-9A43-4B0F-8E6B-23E173BC53E5",
+  "symbolID": "33A3981B-ECEC-4D26-AF02-AD1B3B13A013",
   "verticalSpacing": 0
 }
