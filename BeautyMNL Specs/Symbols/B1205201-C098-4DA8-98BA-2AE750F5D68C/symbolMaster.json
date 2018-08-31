@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 353,
+  "changeIdentifier": 355,
   "do_objectID": "B1205201-C098-4DA8-98BA-2AE750F5D68C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -65,7 +65,7 @@
   ],
   "name": "Navigation/Dropdown + label",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

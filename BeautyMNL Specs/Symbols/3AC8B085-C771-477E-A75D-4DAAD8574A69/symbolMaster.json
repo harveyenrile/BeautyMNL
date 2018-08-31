@@ -4,16 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "2FD60086-734C-46E5-961C-F66937B677C5",
+    "do_objectID": "009115DF-71CA-42A3-AC14-84B6DC343811",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 395,
-  "do_objectID": "154DA845-EC5F-418E-BC9B-ED373D0755C9",
+  "changeIdentifier": 533,
+  "do_objectID": "3AC8B085-C771-477E-A75D-4DAAD8574A69",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B6B25959-652D-4EE0-8744-977D98E99A82",
+    "do_objectID": "B543764A-917B-4C93-9ED9-2FA99E6A7A60",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,19 +24,21 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "52114B87-0DA3-4F63-A147-DD6E5550DF0D",
-    "height": 40,
-    "width": 344,
-    "x": 2612,
-    "y": -236
+    "do_objectID": "26FD58CE-F906-41F7-BA17-240217BBDBE7",
+    "height": 80,
+    "width": 360,
+    "x": 1934,
+    "y": 269
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "719D29FF-0B48-49D3-A462-B6DDCE16B3D0",
+    "do_objectID": "CCBC275B-57ED-47ED-87FB-7FFF2C7976F5",
     "guides": [
+      57,
+      8
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -52,10 +54,10 @@
   "layers": [
     {
       "class": "group",
-      "id": "1564ED5C-2E56-4196-80AD-CFF9FB5A080D"
+      "id": "134D1CD7-24D4-485F-8CAE-BA93CB5B3B24"
     }
   ],
-  "name": "Android/UI/SearchBar w input",
+  "name": "Android/Bar/Search+Cart",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -64,17 +66,17 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "CC6DA219-6F1F-4203-AA19-A8E3FA49A544",
+    "do_objectID": "9331C872-F460-4190-98D8-1E81B354F8B7",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "47120949-3FA3-4D34-9A5A-0155A5CD3B29",
+  "symbolID": "2D466004-FE50-4FE9-AA8C-263AA9D0DF7D",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "8C2822B6-485F-4FFB-A850-C18CDA1D129A",
+    "do_objectID": "9E752769-208A-422A-A9B0-B4F2BC2D7C89",
     "guides": [
     ]
   }
