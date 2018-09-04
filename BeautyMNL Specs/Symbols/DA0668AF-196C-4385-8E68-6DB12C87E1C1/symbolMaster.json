@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 258,
+  "changeIdentifier": 287,
   "do_objectID": "DA0668AF-196C-4385-8E68-6DB12C87E1C1",
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,6 +53,10 @@
     {
       "class": "group",
       "id": "4783BFAA-46A1-4781-9BBE-BF47CA00D88B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2EEDF459-4BDF-4A51-B848-C3BC6896ED0B"
     },
     {
       "class": "shapeGroup",

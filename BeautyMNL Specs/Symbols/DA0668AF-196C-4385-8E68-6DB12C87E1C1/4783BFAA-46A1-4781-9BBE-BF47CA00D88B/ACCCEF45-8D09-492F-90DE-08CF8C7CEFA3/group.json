@@ -38,7 +38,7 @@
   ],
   "name": "Group",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 31,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

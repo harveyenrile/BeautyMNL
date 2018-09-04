@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2274509804,
-            "green": 0.1019607843,
-            "red": 0.09019607843
+            "blue": 0.886238694190979,
+            "green": 0.5645518898963928,
+            "red": 0.288655698299408
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "GothamMedium",
-              "size": 19
+              "name": "SFUIText-Regular",
+              "size": 12
             }
           },
           "kerning": 0,
@@ -25,21 +25,22 @@
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0
-          }
+          },
+          "textStyleVerticalAlignmentKey": 0
         },
-        "length": 14,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "Activity Title"
+    "string": "Disabled"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "FD977AE6-E8D1-4DBD-8E25-7E0D72A8C710",
+  "do_objectID": "8D9B36BB-A413-4B51-BA54-F305CD275CDF",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "53252EF4-2A13-4DC6-BD50-97DC1EA40C7E",
+    "do_objectID": "FE71FF5D-9DEE-48E9-AD87-73D398F1FFF0",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +51,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B50E796D-B5ED-4340-905E-DF5F0594E4F5",
-    "height": 17,
-    "width": 124,
-    "x": 72,
-    "y": 43
+    "do_objectID": "F3698BB8-D95C-4015-A7BC-8FDC32AEEFF3",
+    "height": 14,
+    "width": 50,
+    "x": 837,
+    "y": 314
   },
-  "glyphBounds": "{{0, 0}, {123, 18}}",
+  "glyphBounds": "{{1, 1}, {48, 11}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -64,35 +65,34 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Activity Title",
+  "name": "Disabled",
   "nameIsFixed": false,
-  "resizingConstraint": 43,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "4C6F221B-F9EE-4A93-A38F-4FC95776845A",
+    "do_objectID": "1B269D0C-DF09-46FC-90A7-E727B1077A13",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "7CFDBF16-2652-421D-BF1D-96B2C5D788D0",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "38FCF7D8-53BB-4AD2-8881-E37E3BE5BE6B",
+      "do_objectID": "8115BDCF-D42F-4440-9C79-F8231121A196",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2274509804,
-          "green": 0.1019607843,
-          "red": 0.09019607843
+          "blue": 0.886238694190979,
+          "green": 0.5645518898963928,
+          "red": 0.288655698299408
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "GothamMedium",
-            "size": 19
+            "name": "SFUIText-Regular",
+            "size": 12
           }
         },
         "kerning": 0,
@@ -100,7 +100,8 @@
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0
-        }
+        },
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },

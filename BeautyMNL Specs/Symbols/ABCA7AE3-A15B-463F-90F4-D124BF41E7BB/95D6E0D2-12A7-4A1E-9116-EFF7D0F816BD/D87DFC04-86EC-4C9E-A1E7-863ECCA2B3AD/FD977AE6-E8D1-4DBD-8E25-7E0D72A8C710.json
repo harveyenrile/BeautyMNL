@@ -17,29 +17,29 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "GothamMedium",
-              "size": 17
+              "size": 19
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 5,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Title"
+    "string": "Activity Title"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "ACABE513-2AED-431A-AB03-235BCA496902",
+  "do_objectID": "FD977AE6-E8D1-4DBD-8E25-7E0D72A8C710",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "89D59919-88B7-4EFC-81E5-39E1B06C379D",
+    "do_objectID": "53252EF4-2A13-4DC6-BD50-97DC1EA40C7E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A9A7F08C-EA50-4785-99E3-BFC0ADF367B7",
-    "height": 15,
-    "width": 38,
+    "do_objectID": "B50E796D-B5ED-4340-905E-DF5F0594E4F5",
+    "height": 17,
+    "width": 124,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, -1}, {38, 14}}",
+  "glyphBounds": "{{0, 0}, {123, 18}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -64,22 +64,22 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Title",
+  "name": "Activity Title",
   "nameIsFixed": false,
-  "resizingConstraint": 10,
+  "resizingConstraint": 43,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "3A97017E-DBFB-4987-A366-2FE541D7100F",
+    "do_objectID": "4C6F221B-F9EE-4A93-A38F-4FC95776845A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "7CFDBF16-2652-421D-BF1D-96B2C5D788D0",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "F4950115-C562-4668-BC91-94E217EA7587",
+      "do_objectID": "38FCF7D8-53BB-4AD2-8881-E37E3BE5BE6B",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -92,13 +92,13 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "GothamMedium",
-            "size": 17
+            "size": 19
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0
         }
       },

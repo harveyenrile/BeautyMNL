@@ -1,10 +1,9 @@
 {
   "_class": "group",
-  "booleanOperation": 0,
-  "do_objectID": "F20EF5F3-3665-4CA5-9993-102CE0C35CDC",
+  "booleanOperation": -1,
+  "do_objectID": "A7A26E8A-704B-4CD7-A34A-B9F39F5A296A",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "4D93EAED-2596-439C-BD70-96A841D6A797",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,11 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "3F3CC7E2-A918-40A4-B8F1-0B40FFE49316",
-    "height": 10,
-    "width": 5,
-    "x": 52.5,
-    "y": 2.5
+    "height": 22,
+    "width": 22,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -31,22 +29,17 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "DA8BF1AD-D96B-4C27-96A5-658B898EB6A4"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "163376C5-67A4-46BF-AFB6-4A6E511A34AE"
+      "id": "0DDB9119-1505-434A-A1B4-38C27FFC83F2"
     }
   ],
-  "name": "Arrow-left",
+  "name": "UI/Radio/default",
   "nameIsFixed": true,
-  "resizingConstraint": 13,
+  "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 90,
+  "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "5977CCE1-494B-459D-9331-4E6DB0526BCF",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

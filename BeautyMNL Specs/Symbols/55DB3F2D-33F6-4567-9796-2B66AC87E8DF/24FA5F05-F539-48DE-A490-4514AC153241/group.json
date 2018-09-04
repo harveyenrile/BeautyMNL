@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -46,16 +46,16 @@
       "id": "52C18E83-ADCB-4EB9-961A-1329BF528D8E"
     },
     {
+      "class": "shapeGroup",
+      "id": "5F909829-C520-4396-9B44-A56511B83842"
+    },
+    {
       "class": "text",
       "id": "2450FD0C-E95B-4537-B76A-9E30855EA77A"
     },
     {
       "class": "symbolInstance",
       "id": "20D9619B-3929-4F73-9A91-7241EDC0D18C"
-    },
-    {
-      "class": "group",
-      "id": "02B8C979-B833-4020-83E8-110C382CDC09"
     }
   ],
   "name": "AppBar/default",

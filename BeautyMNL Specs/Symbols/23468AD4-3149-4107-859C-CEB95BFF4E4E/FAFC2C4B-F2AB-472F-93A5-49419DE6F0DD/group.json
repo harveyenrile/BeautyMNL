@@ -1,10 +1,10 @@
 {
   "_class": "group",
-  "booleanOperation": 0,
-  "do_objectID": "F20EF5F3-3665-4CA5-9993-102CE0C35CDC",
+  "booleanOperation": -1,
+  "do_objectID": "FAFC2C4B-F2AB-472F-93A5-49419DE6F0DD",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "4D93EAED-2596-439C-BD70-96A841D6A797",
+    "do_objectID": "5A50160B-664B-49D7-8E5B-B16EF395F557",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,11 +15,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "3F3CC7E2-A918-40A4-B8F1-0B40FFE49316",
-    "height": 10,
-    "width": 5,
-    "x": 52.5,
-    "y": 2.5
+    "do_objectID": "3EDF251E-21D7-496F-AD4D-A9B793B966DE",
+    "height": 22,
+    "width": 22,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -31,22 +31,18 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "DA8BF1AD-D96B-4C27-96A5-658B898EB6A4"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "163376C5-67A4-46BF-AFB6-4A6E511A34AE"
+      "id": "43DF7EAB-C781-492A-96D7-CFDEF1B19CDE"
     }
   ],
-  "name": "Arrow-left",
+  "name": "UI/Radio/disabled",
   "nameIsFixed": true,
-  "resizingConstraint": 13,
+  "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 90,
+  "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "5977CCE1-494B-459D-9331-4E6DB0526BCF",
+    "do_objectID": "41FF7C89-6832-4DF9-B749-126DC9ABA729",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
