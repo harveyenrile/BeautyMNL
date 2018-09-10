@@ -2,10 +2,10 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "79BB3BDF-777C-4AE1-B0F6-DF1E36114921",
+  "do_objectID": "A08B74A5-7A7F-4090-9B2D-F11BC72E4F56",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "2385EC63-4474-43C2-91B7-3A9F6785E607",
+    "do_objectID": "B0A6DBC5-EE4C-40CA-8648-44E51D925DEB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,28 +15,28 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "do_objectID": "EFF58A69-F410-4098-A8E9-1A885593FED4",
-    "height": 45,
-    "width": 375,
-    "x": 0,
+    "constrainProportions": true,
+    "do_objectID": "07EA795D-0B07-4A22-AAB8-D559F6F202ED",
+    "height": 17,
+    "width": 6.505434782608697,
+    "x": 13.69565217391304,
     "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
-  "isFlippedHorizontal": false,
+  "isFlippedHorizontal": true,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "67A668E3-104E-4B8A-BB02-BC1EFEC617C6"
+      "class": "shapePath",
+      "id": "4BD55DEF-D3D6-423B-AD51-033EEE51054E"
     }
   ],
-  "name": "Rectangle",
+  "name": "Rectangle 8",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -44,23 +44,32 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "1BE9DD98-260C-463F-AB48-559D54034EBF",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 9,
+      "type": 0
+    },
     "borders": [
       {
         "_class": "border",
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "blue": 0.1803921569,
+          "green": 0.1803921569,
+          "red": 0.1803921569
         },
         "fillType": 0,
-        "isEnabled": false,
-        "position": 1,
-        "thickness": 1
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 0.9
       }
     ],
-    "do_objectID": "ADA0953E-F16F-45F3-86E7-3F55B1D1A37B",
+    "do_objectID": "7E2B7389-19B0-4FD8-86F3-6CC133CE751F",
     "endMarkerType": 0,
     "fills": [
       {
@@ -73,7 +82,7 @@
           "red": 1
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,

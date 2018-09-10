@@ -1,17 +1,18 @@
 {
-  "_class": "symbolMaster",
+  "_class": "artboard",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "D481E67D-61E5-4E3C-89C6-439B1B02792B",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 332,
-  "do_objectID": "06847DA6-E0AF-4740-91E5-3AE6558A1475",
+  "do_objectID": "0E9703E9-DA38-4EEF-A113-70A0890FE83D",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "8348CB94-DA19-4823-96F0-80709C9E24E6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -22,21 +23,22 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 45,
+    "do_objectID": "28EB902C-60EE-4348-92F2-6235D785E19F",
+    "height": 120,
     "width": 375,
-    "x": 500,
-    "y": 538
+    "x": 856,
+    "y": 248
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "4DA1EA35-E69F-4B5E-BE37-148EF67A1D5D",
     "guides": [
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -47,40 +49,44 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "F0400264-C566-476D-9D06-811E2BCA9591"
-    },
-    {
-      "class": "group",
-      "id": "D44E2517-670B-4E20-BE7F-59F4D55B9174"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "050E8201-1309-4A89-BF22-B7A53595B7EA"
+      "class": "symbolInstance",
+      "id": "7D0B77D1-4907-4B97-B7DA-3FCE6A0ACC2D"
     },
     {
       "class": "symbolInstance",
-      "id": "2676DF1B-E7F9-48D0-A5DC-8A6350DBB935"
+      "id": "7456D71F-2E30-4E9F-9D4C-0F9379DD2ACB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E6C3B1CD-F5EB-4565-95CC-2D4410C473D5"
     }
   ],
-  "name": "Bar/Page Actions",
-  "nameIsFixed": false,
-  "resizesContent": true,
+  "name": "Search w Cart Copy",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "A724D821-0941-45AD-96B4-CDEB49AD189E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "56F78811-C207-4877-B27B-8F1AEB7E3048",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "58D3B063-A7FF-4B2A-8B22-632F659BFF60",
     "guides": [
     ]
   }
