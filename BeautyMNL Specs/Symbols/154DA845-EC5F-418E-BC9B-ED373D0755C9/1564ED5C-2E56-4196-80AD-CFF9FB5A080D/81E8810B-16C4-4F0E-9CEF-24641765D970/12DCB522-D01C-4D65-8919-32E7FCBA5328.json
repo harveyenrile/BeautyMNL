@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "GothamBook",
-              "size": 19
+              "size": 17
             }
           },
           "kerning": 0,
@@ -35,6 +35,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "12DCB522-D01C-4D65-8919-32E7FCBA5328",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -51,12 +52,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B0DC7637-8922-4437-8FBA-73FCE0DAF6BA",
-    "height": 17,
+    "height": 15,
     "width": 16,
     "x": 1.5,
-    "y": 5
+    "y": 7
   },
-  "glyphBounds": "{{0, 0}, {15, 14}}",
+  "glyphBounds": "{{0, 0}, {13, 12}}",
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -91,7 +93,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "GothamBook",
-            "size": 19
+            "size": 17
           }
         },
         "kerning": 0,

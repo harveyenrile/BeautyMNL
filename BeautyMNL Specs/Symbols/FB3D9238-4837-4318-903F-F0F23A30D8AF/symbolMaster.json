@@ -8,7 +8,8 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 7,
+  "changeIdentifier": 172,
+  "clippingMaskMode": 0,
   "do_objectID": "FB3D9238-4837-4318-903F-F0F23A30D8AF",
   "exportOptions": {
     "_class": "exportOptions",
@@ -29,6 +30,7 @@
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -53,7 +55,7 @@
   ],
   "name": "Web/Component/Header",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

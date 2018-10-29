@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EB559DF5-73C6-48F8-918A-A219CDF80C5A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8C480D6B-EFED-4FA3-A850-9169CB27A55A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "228CC3F9-7638-476F-865C-6C0F007CC194",
+    "height": 21,
+    "width": 24,
+    "x": 282,
+    "y": 17
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icon-heart",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 44,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9AE2EB06-F7E5-4E5E-B1BC-A0979DE46CB1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "91638F17-30D8-4896-A10A-686C11E86EC5",
+  "verticalSpacing": 0
+}

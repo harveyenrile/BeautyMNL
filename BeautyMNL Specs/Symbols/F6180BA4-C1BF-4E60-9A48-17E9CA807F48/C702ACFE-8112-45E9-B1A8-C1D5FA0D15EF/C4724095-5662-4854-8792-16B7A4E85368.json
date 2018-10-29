@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C4724095-5662-4854-8792-16B7A4E85368",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2B35AB2C-81EB-411D-861F-7454DE4E4490",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8AF1EF6E-7876-4CCA-ABFE-04A44C21FFFE",
+    "height": 25,
+    "width": 24,
+    "x": 14,
+    "y": 7
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Searchbar Icon",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "44CBA6CA-20FE-441F-BD98-50B7E4BB1E2A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E1C19304-3B2B-4E7A-87FF-8A7CB94D5A60",
+  "verticalSpacing": 0
+}

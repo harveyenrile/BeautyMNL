@@ -1,0 +1,54 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "29AB8C4D-BD33-4FD0-90CF-5BC7F74C078B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6C38270D-7C10-4EBC-A5ED-45C77DB501F4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "EFC6E14E-7E2F-47F9-84C4-7597106AD849",
+    "height": 29.14285714285715,
+    "width": 85,
+    "x": 32,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/72756f9732001153cc768e06dc80956ac9526813.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "bmnl-logo",
+  "nameIsFixed": true,
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8914BD6E-136C-48C8-B315-EDEBD87967B1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

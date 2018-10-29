@@ -1,0 +1,84 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "0131A1F4-B96A-40A7-BAEA-195709F32604",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 634,
+  "clippingMaskMode": 0,
+  "do_objectID": "F6180BA4-C1BF-4E60-9A48-17E9CA807F48",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9ED1DC8C-3A13-47E9-BF40-BC5B7BCCB714",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "25EDCEEB-6B35-40E2-B960-CFFCF2084C84",
+    "height": 40,
+    "width": 344,
+    "x": 2612,
+    "y": -392
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4589F9CB-0974-4A8F-8FD7-C208E31E4573",
+    "guides": [
+      -606
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C702ACFE-8112-45E9-B1A8-C1D5FA0D15EF"
+    }
+  ],
+  "name": "Android/UI/SearchBar w Menu",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B2AEC5A4-CC9B-4C06-8366-39CC9F1973DE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FC926101-518F-4BC4-B579-05C70FCADC70",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6334AF87-E3B9-45E4-8030-C2384EF5CFFF",
+    "guides": [
+    ]
+  }
+}

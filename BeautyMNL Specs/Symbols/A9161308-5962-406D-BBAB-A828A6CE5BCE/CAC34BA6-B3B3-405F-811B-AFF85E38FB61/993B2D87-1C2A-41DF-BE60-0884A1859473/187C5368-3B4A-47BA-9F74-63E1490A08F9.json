@@ -24,7 +24,9 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18
           }
         },
         "length": 5,
@@ -35,6 +37,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "187C5368-3B4A-47BA-9F74-63E1490A08F9",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -51,12 +54,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F438F4D3-76F9-4F5A-872F-423B50885579",
-    "height": 11,
+    "height": 18,
     "width": 50,
     "x": 1,
-    "y": 207
+    "y": 202
   },
-  "glyphBounds": "{{1, -1}, {48, 10}}",
+  "glyphBounds": "{{1, 4}, {48, 10}}",
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -69,13 +73,13 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "99216CA0-8946-453B-9BB7-667B6E089C1C",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "BEA566C7-1C64-43C5-B53A-B744CF28427E",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "99216CA0-8946-453B-9BB7-667B6E089C1C",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
@@ -98,7 +102,9 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 18,
+          "minimumLineHeight": 18
         }
       },
       "verticalAlignment": 0

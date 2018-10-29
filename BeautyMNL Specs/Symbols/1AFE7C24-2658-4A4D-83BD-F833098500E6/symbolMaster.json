@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A9537E8B-7D76-40C4-B2C7-9C4148696798",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 284,
+  "clippingMaskMode": 0,
+  "do_objectID": "1AFE7C24-2658-4A4D-83BD-F833098500E6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "37A0EB78-0112-46BA-A40D-DCE1CF3241EA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "064D1C1C-1408-439A-B367-1C68393E7609",
+    "height": 55,
+    "width": 375,
+    "x": 100,
+    "y": 3946
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2E00D05F-7721-483B-B57F-9326559067CF",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "AF278320-1907-43D4-9CE9-3B85541CE2AC"
+    }
+  ],
+  "name": "Web/Mobile/Component/Header 2",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FB1C4BD2-DCC5-4A94-82BB-253B74FBED7A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "803D758A-6951-40B1-9B6A-EE467AE85050",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "724CAF75-DCCA-42BF-BEE9-671185CFCDA5",
+    "guides": [
+    ]
+  }
+}

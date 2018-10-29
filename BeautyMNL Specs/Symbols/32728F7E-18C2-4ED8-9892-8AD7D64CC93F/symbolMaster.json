@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "24DA17F4-B4B0-468F-AB5B-BEBCC861EE5C",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 248,
+  "clippingMaskMode": 0,
+  "do_objectID": "32728F7E-18C2-4ED8-9892-8AD7D64CC93F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AB20A9D3-FCF1-492A-9332-5BD785F03052",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "27EFB174-57BB-407E-8278-4EEF45F9D798",
+    "height": 54,
+    "width": 233,
+    "x": 5587,
+    "y": -206
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "16586A5A-CACC-47E0-9B67-9B2E45288726",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "BBB1433F-86C6-411C-A3BD-8C86B337C992"
+    }
+  ],
+  "name": "Color/Fill/LightPink",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "690E8AE4-E427-4998-A60C-AE3F18D61905",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6E7814AD-B0FF-4BD6-96D7-82D7214F9D7E",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6DAB0A3D-17F1-4F6C-9897-509C51CE10FE",
+    "guides": [
+    ]
+  }
+}

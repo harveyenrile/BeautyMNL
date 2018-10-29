@@ -1,6 +1,7 @@
 {
   "_class": "group",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "16BE8B8F-1721-4CB0-8613-D51087134ADB",
   "exportOptions": {
     "_class": "exportOptions",
@@ -17,11 +18,12 @@
     "constrainProportions": false,
     "do_objectID": "55541BF4-EFA4-4EBF-9B54-336FE7739D6C",
     "height": 29,
-    "width": 60,
+    "width": 38,
     "x": 157,
     "y": 8
   },
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -36,10 +38,6 @@
     {
       "class": "text",
       "id": "4BAB5788-6035-4EA1-9E51-6D6DC1B6D3CF"
-    },
-    {
-      "class": "group",
-      "id": "1A711349-B7A2-478D-9466-AA41717CF5AD"
     }
   ],
   "name": "Group",

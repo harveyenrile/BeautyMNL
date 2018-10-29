@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "962414AB-2DF1-48BC-BC27-A47B08E5D613",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "92A42BF2-5A32-4F16-A301-59C382956D9B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "FE494089-5B16-4311-AC13-23E890AC355C",
+    "do_objectID": "D4E6D010-43ED-451C-BB16-43AD61CA2E42"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "65984BEF-09A3-43C5-9F4C-B3425D7F958D",
+    "height": 80,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bar/Search",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4F27391A-B371-4B70-8A51-985B04B97755",
+      "overrideName": "7B8E5127-7144-491E-AF3E-53B684EDC17E/4C8DB9D6-ECF3-45F8-BB80-88B2E22087EE_symbolID",
+      "value": "E1C19304-3B2B-4E7A-87FF-8A7CB94D5A60"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BD4A75BB-F4D8-4CC2-A0E6-FD3420DAFE87",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5AB12C2F-D551-4C2F-9EE5-8CBD46AED051",
+  "verticalSpacing": 0
+}

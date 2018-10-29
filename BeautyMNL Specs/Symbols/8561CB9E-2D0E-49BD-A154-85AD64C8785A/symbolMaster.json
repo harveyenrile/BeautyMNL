@@ -9,7 +9,8 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 877,
+  "changeIdentifier": 883,
+  "clippingMaskMode": 0,
   "do_objectID": "8561CB9E-2D0E-49BD-A154-85AD64C8785A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -31,7 +32,8 @@
     "y": 170
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -61,7 +63,7 @@
   ],
   "name": "FieldControl/Dropdown Active",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -9,7 +9,8 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 359,
+  "changeIdentifier": 365,
+  "clippingMaskMode": 0,
   "do_objectID": "B1205201-C098-4DA8-98BA-2AE750F5D68C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,6 +33,7 @@
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -59,12 +61,16 @@
       "id": "55C53ACF-56EC-4620-90AE-26AA7501160F"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "E95EE160-0DD5-4475-854F-72AC1F0571B9"
     },
     {
       "class": "group",
       "id": "C1373236-9725-4625-BE41-4DE92625EA82"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7FCF3FAA-D093-44A5-A761-C90B412FBAE8"
     }
   ],
   "name": "Navigation/Dropdown + label",

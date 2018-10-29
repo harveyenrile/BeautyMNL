@@ -6,7 +6,6 @@
     "_class": "style",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "D17D3DFE-599A-45CF-A72B-CFEDA1158C57",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
@@ -29,7 +28,9 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
         }
       },
       "verticalAlignment": 0

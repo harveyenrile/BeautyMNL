@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "402A0FA2-AA70-426C-B89A-DC114D656462",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AA561369-4D47-497A-9208-BECD2AC6B7C1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7AA8BA35-A279-4F62-8102-107DC0FEF534",
+    "height": 30,
+    "width": 117,
+    "x": 15,
+    "y": 13
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "29AB8C4D-BD33-4FD0-90CF-5BC7F74C078B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EA633C61-D00F-4FD5-9B2B-8750131551E0"
+    }
+  ],
+  "name": "logo-dropdown",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3453DAF6-E18C-43CA-BF61-30E45AC40FEB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

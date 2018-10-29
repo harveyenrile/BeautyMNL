@@ -24,7 +24,9 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
           }
         },
         "length": 8,
@@ -35,6 +37,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "32334750-6937-4AF2-996B-260F7C7D9EF3",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -49,12 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 15,
+    "height": 20,
     "width": 74,
     "x": 15,
     "y": 422
   },
-  "glyphBounds": "{{1, -1}, {72, 14}}",
+  "glyphBounds": "{{1, 3}, {72, 14}}",
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -67,13 +71,13 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "D17D3DFE-599A-45CF-A72B-CFEDA1158C57",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "BC8D5BC0-E652-48D7-8167-49A0E6571E2E",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "D17D3DFE-599A-45CF-A72B-CFEDA1158C57",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
@@ -96,7 +100,9 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
         }
       },
       "verticalAlignment": 0

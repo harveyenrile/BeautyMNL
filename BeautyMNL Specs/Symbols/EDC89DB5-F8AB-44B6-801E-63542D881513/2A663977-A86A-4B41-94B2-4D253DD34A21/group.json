@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2A663977-A86A-4B41-94B2-4D253DD34A21",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "94255B01-2133-490B-9147-16235C6763FD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "220AD546-78FA-4348-85EB-11F5AAC51D27",
+    "height": 10,
+    "width": 5,
+    "x": 22.5,
+    "y": 19.5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "5F9A946E-517A-46C0-891D-E021DA95D318"
+    },
+    {
+      "class": "shapePath",
+      "id": "749F6414-1D6C-4857-AC9C-4C10F66388DE"
+    }
+  ],
+  "name": "Arrow-left",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 90,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "3F49F878-EE5A-4D8D-8A92-571CC21008A5",
+      "opacity": 0.1974888392857143
+    },
+    "do_objectID": "B7A42410-7D06-4FFF-B985-569C31DA2FFA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

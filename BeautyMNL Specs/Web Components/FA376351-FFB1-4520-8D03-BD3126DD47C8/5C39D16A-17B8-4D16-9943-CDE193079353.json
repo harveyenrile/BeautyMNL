@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5C39D16A-17B8-4D16-9943-CDE193079353",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6DF9D0E0-1234-465D-AD47-96CAFFFB8549",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C68A7908-0848-47DF-A875-630937DF1FD0",
+    "height": 46,
+    "width": 170,
+    "x": 467,
+    "y": 1051
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Elements/Button/Fill/Large Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DC280AF6-7AE9-4AEE-B5C2-86CFE4F94979",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "96785DB9-0223-44EC-8B20-D8E22560DF15",
+  "verticalSpacing": 0
+}

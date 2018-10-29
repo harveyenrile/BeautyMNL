@@ -1,6 +1,7 @@
 {
   "_class": "shapePath",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "97AAADA4-04BC-4E7F-8CB4-E2239DAF35ED",
   "edited": true,
   "exportOptions": {
@@ -22,6 +23,7 @@
     "x": 6.760525843744291,
     "y": 2.661842105263154
   },
+  "hasClippingMask": false,
   "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -137,5 +139,75 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2274509804,
+          "green": 0.1019607843,
+          "red": 0.09019607843
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "004FC4C2-6153-4A5E-B19C-1B763B7A0724",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.227450980392157,
+          "green": 0.192156862745098,
+          "red": 0.8784313725490196
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "4749F448-C9AE-403D-94FE-4780D8C164D6",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2274509804,
+          "green": 0.1019607843,
+          "red": 0.09019607843
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Doodlesack",
+            "size": 14
+          }
+        },
+        "kerning": 0.168,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 2,
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  }
 }

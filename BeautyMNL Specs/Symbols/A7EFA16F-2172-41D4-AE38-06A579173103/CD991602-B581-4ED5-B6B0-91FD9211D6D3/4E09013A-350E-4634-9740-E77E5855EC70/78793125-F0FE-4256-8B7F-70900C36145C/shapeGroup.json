@@ -55,6 +55,7 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 11.25,
+      "saturation": 1,
       "type": 0
     },
     "borders": [
