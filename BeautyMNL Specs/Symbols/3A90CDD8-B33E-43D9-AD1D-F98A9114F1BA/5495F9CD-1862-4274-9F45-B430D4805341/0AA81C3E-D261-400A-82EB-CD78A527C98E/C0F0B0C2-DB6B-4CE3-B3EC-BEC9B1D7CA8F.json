@@ -9,23 +9,24 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5764705882,
-            "green": 0.5568627451,
-            "red": 0.5568627451
+            "blue": 0.6079225540161133,
+            "green": 0.6078033447265625,
+            "red": 0.6078922152519226
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "GothamBook",
-              "size": 15
+              "size": 14
             }
           },
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
           }
         },
         "length": 6,
@@ -53,12 +54,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F94B6EAC-14FE-4A04-BE03-C24C7343FA4E",
-    "height": 22,
-    "width": 52,
-    "x": 23,
+    "height": 20,
+    "width": 48,
+    "x": 24,
     "y": 0
   },
-  "glyphBounds": "{{0, 5}, {50, 12}}",
+  "glyphBounds": "{{0, 4}, {47, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -72,7 +73,7 @@
   "resizingConstraint": 43,
   "resizingType": 1,
   "rotation": 0,
-  "sharedStyleID": "0D417B99-49EA-46C3-86FA-6B241C2187CF",
+  "sharedStyleID": "B4B01E2C-FFD8-4B9D-A084-B6EF21A28A32",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -82,28 +83,28 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "AD759A3C-4E10-4BE1-930F-B79094CA25E8",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5764705882,
-          "green": 0.5568627451,
-          "red": 0.5568627451
+          "blue": 0.6079225540161133,
+          "green": 0.6078033447265625,
+          "red": 0.6078922152519226
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "GothamBook",
-            "size": 15
+            "size": 14
           }
         },
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 22,
-          "minimumLineHeight": 22
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
         }
       },
       "verticalAlignment": 0
