@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 883,
+  "changeIdentifier": 915,
   "clippingMaskMode": 0,
   "do_objectID": "8561CB9E-2D0E-49BD-A154-85AD64C8785A",
   "exportOptions": {
@@ -55,10 +55,6 @@
     {
       "class": "group",
       "id": "D42D4412-756C-4C3C-9D3D-84B4B72FF5A9"
-    },
-    {
-      "class": "group",
-      "id": "A98CED53-B219-4553-AB74-176BA595558C"
     }
   ],
   "name": "FieldControl/Dropdown Active",

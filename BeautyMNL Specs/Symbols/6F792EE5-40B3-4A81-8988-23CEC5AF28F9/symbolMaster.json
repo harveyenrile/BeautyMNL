@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 347,
+  "changeIdentifier": 348,
   "clippingMaskMode": 0,
   "do_objectID": "6F792EE5-40B3-4A81-8988-23CEC5AF28F9",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": 180
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,7 +61,7 @@
       "id": "7894C635-57AA-400C-B0E0-76F1A0C19930"
     }
   ],
-  "name": "Elements/Button/Fill",
+  "name": "Elements/Button/Fill/Default",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 754,
+  "changeIdentifier": 1560,
   "clippingMaskMode": 0,
   "do_objectID": "6C1DAD65-7EEA-4DF2-B326-6CA1BF3D42CC",
   "exportOptions": {
@@ -57,21 +57,17 @@
       "id": "BE3916FF-044E-44E6-807F-01B0498BF4E7"
     },
     {
-      "class": "group",
-      "id": "137D3123-22B5-44BD-BCB0-77F905364CAB"
-    },
-    {
-      "class": "text",
-      "id": "AB0AF2CA-F86F-4DC0-8931-7BBDB46BAAAE"
-    },
-    {
       "class": "shapePath",
       "id": "77890260-2C80-415F-BD04-97F27BF38FCD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4183AE5B-4F20-44BB-BD3C-F165ABFCE7C0"
     }
   ],
-  "name": "FieldControl/Dropdown",
+  "name": "FieldControl/Dropdown w placeholder",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -9,34 +9,39 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.6079225540161133,
-            "green": 0.6078033447265625,
-            "red": 0.6078922152519226
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "GothamBook",
-              "size": 17
+              "size": 12
             }
           },
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "baseWritingDirection": 0,
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16,
+            "paragraphSpacing": 10
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 17,
+        "length": 24,
         "location": 0
       }
     ],
-    "string": "Please select one"
+    "string": "Terms of Service\nPrivacy"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "AB0AF2CA-F86F-4DC0-8931-7BBDB46BAAAE",
+  "do_objectID": "7687F1BC-12AF-4F3D-A9CF-AFBD3DE2BB63",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,12 +55,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 15,
-    "width": 146,
+    "height": 42,
+    "width": 101,
     "x": 0,
-    "y": 24
+    "y": 21
   },
-  "glyphBounds": "{{1, -1}, {144, 14}}",
+  "glyphBounds": "{{0, 3}, {100, 37}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,16 +69,14 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Please select one",
+  "name": "Terms of Service Pri",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "4AACF192-528D-448D-AE74-1AE954139EB1",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "3EA8813C-6464-44DF-BCD1-F46AE056AF12",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -83,21 +86,26 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6079225540161133,
-          "green": 0.6078033447265625,
-          "red": 0.6078922152519226
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "GothamBook",
-            "size": 17
+            "size": 12
           }
         },
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "baseWritingDirection": 0,
+          "maximumLineHeight": 16,
+          "minimumLineHeight": 16,
+          "paragraphSpacing": 10
         },
         "textStyleVerticalAlignmentKey": 0
       },

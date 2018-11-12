@@ -17,8 +17,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3381A0C0-4CAC-45C4-B3B6-FCFAFD613427",
-    "height": 11,
-    "width": 36,
+    "height": 44,
+    "width": 146,
     "x": 0,
     "y": 0
   },
@@ -31,6 +31,10 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "text",
+      "id": "AB0AF2CA-F86F-4DC0-8931-7BBDB46BAAAE"
+    },
     {
       "class": "text",
       "id": "A82F2271-4CAD-40A0-8901-5628AB5BB743"

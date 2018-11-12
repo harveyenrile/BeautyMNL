@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1402,
+  "changeIdentifier": 1404,
   "clippingMaskMode": 0,
   "do_objectID": "918B5662-2CF2-4588-8E7E-042C0BB37733",
   "exportOptions": {
@@ -61,6 +61,10 @@
     {
       "class": "symbolInstance",
       "id": "8A359898-7EFF-4BA6-A79D-B1EEE3CB6F7C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9ECB72C7-6D16-4304-8691-164B0329C4B6"
     }
   ],
   "name": "Bar/Search",

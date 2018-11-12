@@ -1,0 +1,132 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0199708B-3971-4D50-8E93-BBFD96CFB66F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "47CC63D1-7E0F-4E20-9E98-B65520152EC6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "3931F871-0584-408F-8334-A10F96BC1850",
+    "height": 42.392,
+    "width": 17.976,
+    "x": 0.1920000000000073,
+    "y": 0.5199999999999818
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "2CE4A92E-255B-498D-9601-87EDB59B53B0"
+    },
+    {
+      "class": "shapePath",
+      "id": "2189B967-2F2B-461F-94AE-D1FB7EE0BBFB"
+    },
+    {
+      "class": "shapePath",
+      "id": "E5F267CE-F166-424B-A50C-D74CC33F49A5"
+    },
+    {
+      "class": "shapePath",
+      "id": "D2EFA119-4CDF-40F0-9E8C-EE7C2CD60F05"
+    },
+    {
+      "class": "shapePath",
+      "id": "A384BE1C-D203-445B-8C20-2B8F3A433443"
+    },
+    {
+      "class": "shapePath",
+      "id": "AE21E2EA-B4AF-41CF-B5C5-70C9502F13AF"
+    }
+  ],
+  "name": "B",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "0398CDCB-588A-43DE-B75D-4A0C890EAF8C",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 40,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "8F1878CF-AAED-4FB6-B4C2-F6C17AD7EBB6",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2274509804,
+          "green": 0.1019607843,
+          "red": 0.09019607843
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "AB5E0F8D-519C-4739-BEB2-5FFD2BB0861A",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2274509804,
+          "green": 0.1019607843,
+          "red": 0.09019607843
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "CanterBold3D",
+            "size": 14
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "baseWritingDirection": 0,
+          "paragraphSpacing": 10
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

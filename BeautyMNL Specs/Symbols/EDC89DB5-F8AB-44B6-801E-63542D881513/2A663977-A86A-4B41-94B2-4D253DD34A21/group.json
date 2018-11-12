@@ -42,7 +42,7 @@
   ],
   "name": "Arrow-left",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 90,
   "shouldBreakMaskChain": false,

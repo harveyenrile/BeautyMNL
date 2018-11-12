@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "B6C0F0AC-762D-4119-AAF9-40DC8DB64B18",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 41,
+  "clippingMaskMode": 0,
+  "do_objectID": "0DEAB22B-CEB0-43EC-87F2-6DB3101CF8F2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CB25D558-C078-46D2-A0EB-48FB7C3EF53C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CAD7C7B4-720D-48B8-9629-E4BFA5BCCF43",
+    "height": 6,
+    "width": 11,
+    "x": 12254,
+    "y": -797
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BFF78212-6926-4F07-B04E-A4FACB092962",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AF629C71-D432-46C9-9EF8-5F69E91945A1"
+    }
+  ],
+  "name": "Assets/Icons/angle-up",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D16D3832-7012-416F-9857-EF5B5494EB8F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BA59F0E5-F36B-49F2-957E-2B52E8B8B4AA",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "37F1EF77-538E-4B80-9CC9-3745E0CFFC6E",
+    "guides": [
+    ]
+  }
+}

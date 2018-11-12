@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "0CB13ECD-8312-497E-A3C9-61A9A147F008",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 112,
+  "clippingMaskMode": 0,
+  "do_objectID": "C39ADDE1-7365-4354-92BB-6CFC628A841D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B5809E04-E3EB-4A30-B92E-012C84015EE3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C7597654-F85B-479A-9765-7E6C78FAD3E5",
+    "height": 11,
+    "width": 6,
+    "x": 12262,
+    "y": -812
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EF811BEB-4E35-40FA-9851-108020256DF6",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6E38A13A-68B2-48DD-A60C-C783980361B4"
+    }
+  ],
+  "name": "Assets/Icons/angle-right",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0D94C970-3295-40B1-BB9B-B29A185E1B38",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "345AA040-3B65-44AD-BA9B-DABD9D60C92E",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "102E5D7F-33F8-44B9-A225-25160A16F267",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "978C8F5C-18B9-4F23-9198-023F429DBF2A",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 87,
+  "clippingMaskMode": 0,
+  "do_objectID": "D78F3618-1C30-49B9-8563-8AF0918B8648",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "97AC1AC1-0F69-4EE6-AB6C-61BC332C00C1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9AB74655-84E9-479C-AC6A-C66B985A8828",
+    "height": 11,
+    "width": 6,
+    "x": 12254,
+    "y": -812
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "09EAC3FF-3E22-424A-94DE-121C2FF38314",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A6AF94F8-DB9F-4910-A88A-B2E58D50B494"
+    }
+  ],
+  "name": "Assets/Icons/angle-left",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "698F2056-E769-4EC1-B7B3-E7FF5DACB99D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BD1AFDAB-22E8-4E1E-B813-FEC89D5EF073",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6775F189-6850-4657-B98D-AAFF2FA30767",
+    "guides": [
+    ]
+  }
+}

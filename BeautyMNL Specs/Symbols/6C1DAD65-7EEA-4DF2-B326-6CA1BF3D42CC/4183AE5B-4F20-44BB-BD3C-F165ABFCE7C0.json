@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "137D3123-22B5-44BD-BCB0-77F905364CAB",
+  "do_objectID": "4183AE5B-4F20-44BB-BD3C-F165ABFCE7C0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,31 +14,28 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 5.866666666666666,
+    "constrainProportions": false,
+    "height": 6,
     "width": 11,
-    "x": 132,
-    "y": 29
+    "x": 133,
+    "y": 31
   },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "shapePath",
-      "id": "04CD796C-CD48-4C2A-BCDF-35A4C45CF4A2"
-    }
-  ],
-  "name": "noun-1245236-cc",
+  "layerListExpandedType": 0,
+  "name": "Assets/Icons/angle-down",
   "nameIsFixed": false,
-  "resizingConstraint": 36,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 44,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -46,5 +43,7 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "BB03C973-3998-4870-9D70-A36479372725",
+  "verticalSpacing": 0
 }
