@@ -23,7 +23,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 1447,
-    "width": 1024,
+    "width": 1300,
     "x": -357,
     "y": -512
   },
@@ -200,7 +200,23 @@
     },
     {
       "class": "text",
+      "id": "4641E7F1-AB49-41B5-8C4D-7AFF697BEAAD"
+    },
+    {
+      "class": "text",
       "id": "694F7D9F-846A-4BE8-9C52-7056CAC8031B"
+    },
+    {
+      "class": "text",
+      "id": "D0D6AFB9-916B-44D3-B7BC-473289D8C941"
+    },
+    {
+      "class": "text",
+      "id": "195E738C-7D4F-43E9-8573-A15A971F7052"
+    },
+    {
+      "class": "text",
+      "id": "2F013A6C-11A6-439D-9BE1-0EB9E55D6B47"
     },
     {
       "class": "text",
@@ -245,6 +261,18 @@
     {
       "class": "symbolInstance",
       "id": "FEB2390B-FACF-47B4-BABF-0C4E1C0D8190"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4D1738DA-F3CF-49E0-8397-01A3AF4BC6E8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "003C9638-1C39-4E5F-AC78-364ED6A27772"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "45C85AFD-0825-4F45-8280-372F2F40AA37"
     }
   ],
   "layout": {
@@ -256,8 +284,8 @@
     "gutterHeight": 12,
     "gutterWidth": 30,
     "guttersOutside": true,
-    "horizontalOffset": -88,
-    "isEnabled": true,
+    "horizontalOffset": 50,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 1200

@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1BCA0BB4-5C95-48A6-9739-031DBB4EA48B",
+  "do_objectID": "41B09E4F-7DD3-43BE-82BD-820F1646EB2B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,11 +14,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 55,
-    "width": 1300,
-    "x": 0,
-    "y": 0
+    "constrainProportions": true,
+    "height": 8.066666666666666,
+    "width": 11,
+    "x": 3,
+    "y": 5
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Web/Component/Header",
+  "name": "icon/icon-check/colored",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -44,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "0709EBD4-2489-4922-9636-DC39A3E592D3",
+  "symbolID": "E393DA51-B80D-4B96-9D68-6555C1F7AF17",
   "verticalSpacing": 0
 }

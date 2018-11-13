@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,8 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 3,
   "clippingMaskMode": 0,
-  "do_objectID": "C2B3E167-C6F1-4D29-9CFE-C3BFC7F2E3F7",
+  "do_objectID": "3069A891-683E-43F8-A97D-D54A2C5732E5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,13 +23,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 534,
-    "width": 375,
-    "x": 1247,
-    "y": -512
+    "height": 18,
+    "width": 18,
+    "x": 12985,
+    "y": -812
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -37,6 +38,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -47,26 +49,11 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "9608F1C3-01FA-4151-8030-B68788607D9B"
+      "class": "rectangle",
+      "id": "EEB37FE6-A004-4C01-B49D-09E2187D7008"
     }
   ],
-  "layout": {
-    "_class": "layoutGrid",
-    "columnWidth": 70,
-    "drawHorizontal": false,
-    "drawHorizontalLines": false,
-    "drawVertical": true,
-    "gutterHeight": 12,
-    "gutterWidth": 30,
-    "guttersOutside": true,
-    "horizontalOffset": -412.5,
-    "isEnabled": true,
-    "numberOfColumns": 12,
-    "rowHeightMultiplication": 5,
-    "totalWidth": 1200
-  },
-  "name": "Artboard",
+  "name": "Web/UI/checkbox/default",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -80,6 +67,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "64DE0644-6C35-4858-BB70-E0C50CE9E013",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1BCA0BB4-5C95-48A6-9739-031DBB4EA48B",
+  "do_objectID": "45C85AFD-0825-4F45-8280-372F2F40AA37",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 55,
-    "width": 1300,
-    "x": 0,
-    "y": 0
+    "height": 18,
+    "width": 18,
+    "x": 995,
+    "y": 232
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Web/Component/Header",
+  "name": "Web/UI/checkbox/checked",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -44,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "0709EBD4-2489-4922-9636-DC39A3E592D3",
+  "symbolID": "C275EB88-DB7C-4910-8862-C12EF8FE36AC",
   "verticalSpacing": 0
 }

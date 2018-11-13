@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,8 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 3,
   "clippingMaskMode": 0,
-  "do_objectID": "C2B3E167-C6F1-4D29-9CFE-C3BFC7F2E3F7",
+  "do_objectID": "F3B5FF25-7E3D-4129-9D97-6C014CD7E9DC",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,13 +23,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 534,
-    "width": 375,
-    "x": 1247,
-    "y": -512
+    "height": 18,
+    "width": 18,
+    "x": 12985,
+    "y": -694
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -37,6 +38,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -47,26 +49,11 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "9608F1C3-01FA-4151-8030-B68788607D9B"
+      "class": "group",
+      "id": "3B1FA4A5-C06A-472C-A036-5C857FD83C64"
     }
   ],
-  "layout": {
-    "_class": "layoutGrid",
-    "columnWidth": 70,
-    "drawHorizontal": false,
-    "drawHorizontalLines": false,
-    "drawVertical": true,
-    "gutterHeight": 12,
-    "gutterWidth": 30,
-    "guttersOutside": true,
-    "horizontalOffset": -412.5,
-    "isEnabled": true,
-    "numberOfColumns": 12,
-    "rowHeightMultiplication": 5,
-    "totalWidth": 1200
-  },
-  "name": "Artboard",
+  "name": "Web/UI/checkbox/checked",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -80,6 +67,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "C275EB88-DB7C-4910-8862-C12EF8FE36AC",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
